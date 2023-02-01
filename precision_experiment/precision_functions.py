@@ -6,7 +6,13 @@ import matplotlib.gridspec as gridspec
 
 
 def calculate_and_plot_errors(
-    df, TRIAL_TAG, first_sample=0, max_plots=5, screen_res=(1920, 1080), verbose=True
+    df: pd.DataFrame,
+    TRIAL_TAG: str,
+    first_sample: int = 0,
+    max_var:int = 200,
+    max_plots: int = 5,
+    screen_res: tuple = (1920, 1080),
+    verbose:bool=True,
 ):
     """_summary_
 
@@ -15,6 +21,7 @@ def calculate_and_plot_errors(
         TRIAL_TAG (str): Type of trial (`validation-stimulus` or `fixation-stimulus`)
         first_sample (int, optional): First sample fo evaluate. Useful for filtering. Defaults to 0.
         max_plots (int, optional): Max number of plots. Defaults to 5.
+        max_var (int, optional): Max variance accepted in trial. Default to 200.
         screen_res (tuple, optional): Screen Resolution of experiment. Defaults to (1920, 1080).
 
     Returns:
@@ -51,6 +58,9 @@ def calculate_and_plot_errors(
     total_errors_pxs_mean = []
     total_errors_pxs_std = []
     metadata = df["response"].iloc[0]
+    xs_all = []
+    ys_all = []
+    ts_all = []
 
     center_x = df[df["trial-tag"] == TRIAL_TAG]["center_x"].iloc[0]
     center_y = df[df["trial-tag"] == TRIAL_TAG]["center_y"].iloc[0]
@@ -84,13 +94,23 @@ def calculate_and_plot_errors(
         ys = np.array(ys)
         ts = np.array(ts)
 
+        # Add before fitering
+        xs_all.append(xs)
+        ys_all.append(ys)
+        ts_all.append(ts)
+        
         xs = xs[ts > first_sample]
         ys = ys[ts > first_sample]
         ts = ts[ts > first_sample]
 
-        ex = abs(xs - xv[k])
-        ey = abs(ys - yv[k])
-        ee = np.sqrt(ex**2 + ey**2)
+        if np.std(xs) > max_var or np.std(ys) > max_var:
+            ex = np.nan
+            ey = np.nan
+            ee = np.nan
+        else:
+            ex = abs(xs - xv[k])
+            ey = abs(ys - yv[k])
+            ee = np.sqrt(ex**2 + ey**2)
 
         horizontal_errors_pxs_mean.append(np.mean(ex))
         horizontal_errors_pxs_std.append(np.std(ex))
@@ -98,6 +118,7 @@ def calculate_and_plot_errors(
         vertical_errors_pxs_std.append(np.std(ey))
         total_errors_pxs_mean.append(np.mean(ee))
         total_errors_pxs_std.append(np.std(ee))
+
 
         gs = gridspec.GridSpec(2, 4)
         gs.update(wspace=2)
@@ -169,19 +190,26 @@ def calculate_and_plot_errors(
             "vertical_errors_pxs_std": vertical_errors_pxs_std,
             "total_errors_pxs_mean": total_errors_pxs_mean,
             "total_errors_pxs_std": total_errors_pxs_std,
+            "webgazer_x": xs_all,
+            "webgazer_y": ys_all,
+            "webgazer_t": ts_all,
             "metadata": metadata,
         }
     )
-
 
 
 def evaluate_experiment_instances(files):
     for file in files:
         df_res = pd.read_csv(file)
         print(file)
-        print(f"Error: {df_res['total_errors_pxs_mean'].mean():.2f} +- {df_res['total_errors_pxs_mean'].std():.2f}")
-        print(f"Sampling rate: {df_res['sampling_rate_mean'].mean():.2f} +- {df_res['sampling_rate_std'].mean():.2f}")
+        print(
+            f"Error: {df_res['total_errors_pxs_mean'].mean():.2f} +- {df_res['total_errors_pxs_mean'].std():.2f}"
+        )
+        print(
+            f"Sampling rate: {df_res['sampling_rate_mean'].mean():.2f} +- {df_res['sampling_rate_std'].mean():.2f}"
+        )
         print("---")
 
-def get_rastoc_events(df, event='rastoc:stillness-position-lost'):
-    return [i for i in eval(df['events'].iloc[-2]) if i['event_name'] == event]
+
+def get_rastoc_events(df, event="rastoc:stillness-position-lost"):
+    return [i for i in eval(df["events"].iloc[-2]) if i["event_name"] == event]
