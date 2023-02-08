@@ -176,6 +176,7 @@ def calculate_and_plot_errors(
         {
             "trials": trials,
             "first_sample": first_sample,
+            "max_var": max_var,
             "presented_point": presented_points,
             "time_between_samples_mean": time_between_samples_mean,
             "time_between_samples_std": time_between_samples_std,
