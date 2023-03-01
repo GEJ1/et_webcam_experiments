@@ -9,10 +9,10 @@ def calculate_and_plot_errors(
     df: pd.DataFrame,
     TRIAL_TAG: str,
     first_sample: int = 0,
-    max_var:int = 200,
+    max_var: int = 200,
     max_plots: int = 5,
     screen_res: tuple = (1920, 1080),
-    verbose:bool=True,
+    verbose: bool = True,
 ):
     """_summary_
 
@@ -51,6 +51,9 @@ def calculate_and_plot_errors(
     sampling_rate_mean = []
     sampling_rate_std = []
     last_time_sample = []
+    horizontal_errors_pxs = []
+    vertical_errors_pxs = []
+    total_errors_pxs = []
     horizontal_errors_pxs_mean = []
     horizontal_errors_pxs_std = []
     vertical_errors_pxs_mean = []
@@ -71,7 +74,6 @@ def calculate_and_plot_errors(
 
     k = 0
     for d in df[df["trial-tag"] == TRIAL_TAG]["webgazer_data"].map(eval):
-
         xs = []
         ys = []
         ts = []
@@ -98,19 +100,23 @@ def calculate_and_plot_errors(
         xs_all.append(xs)
         ys_all.append(ys)
         ts_all.append(ts)
-        
+
         xs = xs[ts > first_sample]
         ys = ys[ts > first_sample]
         ts = ts[ts > first_sample]
 
         if np.std(xs) > max_var or np.std(ys) > max_var:
-            ex = np.nan
-            ey = np.nan
-            ee = np.nan
+            ex = np.array(np.nan)
+            ey = np.array(np.nan)
+            ee = np.array(np.nan)
         else:
             ex = abs(xs - xv[k])
             ey = abs(ys - yv[k])
             ee = np.sqrt(ex**2 + ey**2)
+
+        horizontal_errors_pxs.append(ex)
+        vertical_errors_pxs.append(ey)
+        total_errors_pxs.append(ee)
 
         horizontal_errors_pxs_mean.append(np.mean(ex))
         horizontal_errors_pxs_std.append(np.std(ex))
@@ -118,7 +124,6 @@ def calculate_and_plot_errors(
         vertical_errors_pxs_std.append(np.std(ey))
         total_errors_pxs_mean.append(np.mean(ee))
         total_errors_pxs_std.append(np.std(ee))
-
 
         gs = gridspec.GridSpec(2, 4)
         gs.update(wspace=2)
@@ -172,6 +177,7 @@ def calculate_and_plot_errors(
         if k == max_plots:
             break
 
+    print("len(horizontal_errors_pxs):", len(horizontal_errors_pxs))
     return pd.DataFrame(  # TODO: Agregar data del virtual chin rest
         {
             "trials": trials,
@@ -185,6 +191,9 @@ def calculate_and_plot_errors(
             "sampling_rate_min": sampling_rate_min,
             "sampling_rate_max": sampling_rate_max,
             "last_time_sample": last_time_sample,
+            "horizontal_errors_pxs": horizontal_errors_pxs,
+            "vertical_errors_pxs": vertical_errors_pxs,
+            "total_errors_pxs": total_errors_pxs,
             "horizontal_errors_pxs_mean": horizontal_errors_pxs_mean,
             "horizontal_errors_pxs_std": horizontal_errors_pxs_std,
             "vertical_errors_pxs_mean": vertical_errors_pxs_mean,
@@ -195,6 +204,7 @@ def calculate_and_plot_errors(
             "webgazer_y": ys_all,
             "webgazer_t": ts_all,
             "metadata": metadata,
+            # "px2degree": [df.query("px2deg.notna()")["px2deg"]],
         }
     )
 
