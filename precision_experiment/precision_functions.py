@@ -128,6 +128,7 @@ def calculate_and_plot_errors(
         gs = gridspec.GridSpec(2, 4)
         gs.update(wspace=2)
         ax1 = plt.subplot(
+            # gs[0, :2],
             gs[0, :2],
         )
         ax1.set_title("Gaze estimation")
@@ -140,13 +141,19 @@ def calculate_and_plot_errors(
         ax1.set_xlim(0, screen_res[0])
         ax1.set_ylim(0, screen_res[1])
 
-        ax2 = plt.subplot(gs[0, 2:])
+        ax2 = plt.subplot(
+            gs[0, 2:]
+            # gs[0, 2:]
+        )
         ax2.set_title("X coordinate over time")
         ax2.plot(ts, xs, "k.")
         ax2.set_ylim(0, center_x * 2)
         ax2.hlines(center_x, 0, max(ts), "k")
 
-        ax3 = plt.subplot(gs[1, 1:3])
+        ax3 = plt.subplot(
+            # gs[1, 1:3]
+            gs[1, 1:3]
+        )
         ax3.set_title("y coordinate over time")
         ax3.plot(ts, ys, "k.")
         ax3.set_ylim(0, center_y * 2)
