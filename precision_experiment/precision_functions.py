@@ -127,10 +127,7 @@ def calculate_and_plot_errors(
 
         gs = gridspec.GridSpec(2, 4)
         gs.update(wspace=2)
-        ax1 = plt.subplot(
-            # gs[0, :2],
-            gs[0, :2],
-        )
+        ax1 = plt.subplot(gs[1, 1:3])
         ax1.set_title("Gaze estimation")
         ax1.scatter(xv[k], yv[k], c="c")
         ax1.vlines(screen_res[0] / 2, 0, screen_res[1], "k")
@@ -140,20 +137,17 @@ def calculate_and_plot_errors(
         ax1.scatter(xv[k], yv[k], c="b")
         ax1.set_xlim(0, screen_res[0])
         ax1.set_ylim(0, screen_res[1])
+        ax1.set_ylabel("y position (pixels)")
+        ax1.set_xlabel("x position (pixels)")
 
-        ax2 = plt.subplot(
-            gs[0, 2:]
-            # gs[0, 2:]
-        )
+        ax2 = plt.subplot(gs[0, :2])
         ax2.set_title("X coordinate over time")
         ax2.plot(ts, xs, "k.")
         ax2.set_ylim(0, center_x * 2)
         ax2.hlines(center_x, 0, max(ts), "k")
+        ax2.set_ylabel("position (pixels)")
 
-        ax3 = plt.subplot(
-            # gs[1, 1:3]
-            gs[1, 1:3]
-        )
+        ax3 = plt.subplot(gs[0, 2:])
         ax3.set_title("y coordinate over time")
         ax3.plot(ts, ys, "k.")
         ax3.set_ylim(0, center_y * 2)
@@ -221,12 +215,19 @@ def evaluate_experiment_instances(files):
         df_res = pd.read_csv(file)
         print(file)
         print(
-            f"Error: {df_res['total_errors_pxs_mean'].mean():.2f} +- {df_res['total_errors_pxs_mean'].std():.2f}"
+            f"Error x: {df_res['horizontal_errors_pxs_mean'].mean():.2f} +- {df_res['horizontal_errors_pxs_mean'].std():.2f}"
+        )
+        print(
+            f"Error y: {df_res['vertical_errors_pxs_mean'].mean():.2f} +- {df_res['vertical_errors_pxs_mean'].std():.2f}"
+        )
+        print(
+            f"Error total: {df_res['total_errors_pxs_mean'].mean():.2f} +- {df_res['total_errors_pxs_mean'].std():.2f}"
         )
         print(
             f"Sampling rate: {df_res['sampling_rate_mean'].mean():.2f} +- {df_res['sampling_rate_std'].mean():.2f}"
         )
         print("---")
+        print("testing")
 
 
 def get_rastoc_events(df, event="rastoc:stillness-position-lost"):
