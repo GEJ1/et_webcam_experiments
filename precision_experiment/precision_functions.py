@@ -73,6 +73,7 @@ def calculate_and_plot_errors(
     yv = df[df["trial-tag"] == TRIAL_TAG]["start-y"].values + center_y
 
     k = 0
+    print("processing ...")
     for d in df[df["trial-tag"] == TRIAL_TAG]["webgazer_data"].map(eval):
         xs = []
         ys = []
@@ -173,7 +174,7 @@ def calculate_and_plot_errors(
             )
             print("Last time sample = %d" % max(ts))
 
-        print("k:", k)
+        # print("k:", k)
         k += 1
         if k == max_plots:
             break
@@ -205,7 +206,7 @@ def calculate_and_plot_errors(
             "webgazer_y": ys_all,
             "webgazer_t": ts_all,
             "metadata": metadata,
-            # "px2degree": [df.query("px2deg.notna()")["px2deg"]],
+            "px2degree": df["px2deg"].round(2).iloc[4],
         }
     )
 
@@ -214,6 +215,12 @@ def evaluate_experiment_instances(files):
     for file in files:
         df_res = pd.read_csv(file)
         print(file)
+
+        try:
+            df_res["px2degree"]
+        except KeyError:
+            print("px2degree not in df")
+            continue
         print(
             f"Error x: {df_res['horizontal_errors_pxs_mean'].mean():.2f} +- {df_res['horizontal_errors_pxs_mean'].std():.2f}"
         )
@@ -226,8 +233,32 @@ def evaluate_experiment_instances(files):
         print(
             f"Sampling rate: {df_res['sampling_rate_mean'].mean():.2f} +- {df_res['sampling_rate_std'].mean():.2f}"
         )
+        print(f"px2degree: {df_res['px2degree'].iloc[0]}")
         print("---")
-        print("testing")
+
+        # return pd.DataFrame(
+        #     {
+        #         "sampling_rate_mean": df_res["sampling_rate_mean"].round(2).mean(),
+        #         "sampling_rate_std": df_res["sampling_rate_std"].round(2).mean(),
+        #         "horizontal_errors_pxs_mean": df_res["horizontal_errors_pxs_mean"]
+        #         .round(2)
+        #         .mean(),
+        #         "horizontal_errors_pxs_std": df_res["horizontal_errors_pxs_mean"]
+        #         .round(2)
+        #         .std(),
+        #         "vertical_errors_pxs_mean": df_res["vertical_errors_pxs_mean"]
+        #         .round(2)
+        #         .mean(),
+        #         "vertical_errors_pxs_std": df_res["vertical_errors_pxs_mean"]
+        #         .round(2)
+        #         .std(),
+        #         "total_errors_pxs_mean": df_res["total_errors_pxs_mean"]
+        #         .round(2)
+        #         .mean(),
+        #         "total_errors_pxs_std": df_res["total_errors_pxs_mean"].round(2).std(),
+        #         "px2degree": df_res["px2degree"],
+        #     }
+        # )
 
 
 def get_rastoc_events(df, event="rastoc:stillness-position-lost"):
