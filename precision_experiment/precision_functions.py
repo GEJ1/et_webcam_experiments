@@ -231,7 +231,7 @@ def evaluate_experiment_instances(files):
             f"Error total: {df_res['total_errors_pxs_mean'].mean():.2f} +- {df_res['total_errors_pxs_mean'].std():.2f}"
         )
         print(
-            f"Sampling rate: {df_res['sampling_rate_mean'].mean():.2f} +- {df_res['sampling_rate_std'].mean():.2f}"
+            f"Sampling rate: {df_res['sampling_rate_mean'].mean():.2f} +- {df_res['sampling_rate_mean'].std():.2f}"
         )
         print(f"px2degree: {df_res['px2degree'].iloc[0]}")
         print("---")
