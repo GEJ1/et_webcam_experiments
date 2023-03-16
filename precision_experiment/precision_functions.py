@@ -180,7 +180,7 @@ def calculate_and_plot_errors(
             break
 
     print("len(horizontal_errors_pxs):", len(horizontal_errors_pxs))
-    return pd.DataFrame(  # TODO: Agregar data del virtual chin rest
+    return pd.DataFrame(
         {
             "trials": trials,
             "first_sample": first_sample,
