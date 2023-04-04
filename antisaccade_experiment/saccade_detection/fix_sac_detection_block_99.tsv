@@ -1,0 +1,4 @@
+onset	duration	label	start_x	start_y	end_x	end_y	amp	peak_vel	med_vel	avg_vel
+0.000	0.600	FIXA	0.0	0.0	0.0	0.0	0.659	31.697	4.109	8.587
+0.600	0.267	SACC	0.1	0.0	1.1	0.0	30.687	329.863	89.046	123.280
+0.867	0.133	FIXA	1.1	0.0	1.0	0.0	3.120	33.299	30.150	23.400
