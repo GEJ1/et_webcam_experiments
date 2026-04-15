@@ -211,7 +211,7 @@ def calculate_and_plot_errors(
     )
 
 
-def evaluate_experiment_instances(files):
+def evaluate_experiment_instances(files, iqr=True, mean=False):
     for file in files:
         df_res = pd.read_csv(file)
         print(file)
@@ -221,18 +221,33 @@ def evaluate_experiment_instances(files):
         except KeyError:
             print("px2degree not in df")
             continue
-        print(
-            f"Error x: {df_res['horizontal_errors_pxs_mean'].mean():.2f} +- {df_res['horizontal_errors_pxs_mean'].std():.2f}"
-        )
-        print(
-            f"Error y: {df_res['vertical_errors_pxs_mean'].mean():.2f} +- {df_res['vertical_errors_pxs_mean'].std():.2f}"
-        )
-        print(
-            f"Error total: {df_res['total_errors_pxs_mean'].mean():.2f} +- {df_res['total_errors_pxs_mean'].std():.2f}"
-        )
-        print(
-            f"Sampling rate: {df_res['sampling_rate_mean'].mean():.2f} +- {df_res['sampling_rate_mean'].std():.2f}"
-        )
+        if mean:
+            print(
+                f"Error x: {df_res['horizontal_errors_pxs_mean'].mean():.1f} +- {df_res['horizontal_errors_pxs_mean'].std():.1f}"
+            )
+            print(
+                f"Error y: {df_res['vertical_errors_pxs_mean'].mean():.1f} +- {df_res['vertical_errors_pxs_mean'].std():.1f}"
+            )
+            print(
+                f"Error total: {df_res['total_errors_pxs_mean'].mean():.1f} +- {df_res['total_errors_pxs_mean'].std():.1f}"
+            )
+            print(
+                f"Sampling rate: {df_res['sampling_rate_mean'].mean():.1f} +- {df_res['sampling_rate_mean'].std():.1f}"
+            )
+        if iqr:
+            print(
+                f"Error x: {df_res['horizontal_errors_pxs_mean'].median():.1f} [{df_res['horizontal_errors_pxs_mean'].quantile(0.25):.1f} {df_res['horizontal_errors_pxs_mean'].quantile(0.75):.1f}]"
+            )
+            print(
+                f"Error y: {df_res['vertical_errors_pxs_mean'].median():.1f} [{df_res['vertical_errors_pxs_mean'].quantile(0.25):.1f} {df_res['vertical_errors_pxs_mean'].quantile(0.75):.1f}]"
+            )
+            print(
+                f"Error total: {df_res['total_errors_pxs_mean'].median():.1f} [{df_res['total_errors_pxs_mean'].quantile(0.25):.1f} {df_res['total_errors_pxs_mean'].quantile(0.75):.1f}]"
+            )
+            print(
+                f"Sampling rate: {df_res['sampling_rate_mean'].median():.1f} [{df_res['sampling_rate_mean'].quantile(0.25):.1f} {df_res['sampling_rate_mean'].quantile(0.75):.1f}]"
+            )
+
         print(f"px2degree: {df_res['px2degree'].iloc[0]}")
         print("---")
 
