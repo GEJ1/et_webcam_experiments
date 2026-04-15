@@ -1,0 +1,922 @@
+onset	duration	trial_index	typeOfSaccade	cueShownAtLeft	intraEnd	isTutorial	isSaccadeExperiment
+0.0	65.601	0					
+24.778	24.775	1					
+29.97	5.191	2					
+126.345	96.371	3					
+129.0	2.653	4					
+129.086		5					
+129.088		6					
+142.432		7					
+225.377		8					
+227.577	2.196	9					
+274.535	46.956	10					
+278.085	3.545	11					
+282.58	4.492	12					
+295.359	12.777	13					
+298.604	3.242	14					
+300.621		15					
+302.66	2.037	16					
+308.88	5.595	17					
+310.245	0.794	18					
+311.063	0.245	19					
+312.052	0.432	20					
+313.092	0.463	21					
+314.116	0.447	22					
+315.053	0.368	23					
+316.053	0.433	24					
+316.906	0.298	25					
+317.902	0.423	26					
+318.982	0.526	27					
+320.964	1.922	28					
+321.942	0.172	29					
+323.056	0.329	30					
+324.281	0.435	31					
+325.232	0.143	32					
+326.2	0.176	33					
+327.301	0.342	34					
+330.327		35					
+333.275		36	prosaccade	True	2099.0	True	True
+336.436		37	prosaccade	True	2319.0	True	True
+339.453		38	prosaccade	True	2177.0	True	True
+342.517		39	prosaccade	True	2241.0	True	True
+345.586		40	prosaccade	False	2222.0	True	True
+348.641		41	prosaccade	True	2207.0	True	True
+352.033		42	prosaccade	True	2569.0	True	True
+355.466		43	prosaccade	True	2575.0	True	True
+358.454		44	prosaccade	False	2136.0	True	True
+361.494		45	prosaccade	False	2188.0	True	True
+363.505		46					
+393.741	30.232	47					
+398.61	4.264	48					
+399.875	0.693	49					
+400.791	0.361	50					
+401.682	0.335	51					
+402.867	0.601	52					
+403.776	0.328	53					
+404.782	0.436	54					
+405.882	0.531	55					
+406.849	0.405	56					
+408.091	0.658	57					
+409.228	0.579	58					
+410.843	1.564	59					
+413.293	1.658	60					
+414.143	0.056	61					
+414.985	0.051	62					
+415.82	0.023	63					
+416.769	0.163	64					
+417.666	0.086	65					
+419.682		66					
+421.137	1.451	67					
+422.112	0.359	68					
+422.983	0.298	69					
+423.788	0.226	70					
+424.634	0.271	71					
+425.565	0.336	72					
+426.435	0.296	73					
+427.321	0.307	74					
+428.115	0.211	75					
+428.811	0.126	76					
+429.667	0.294	77					
+430.614	0.39	78					
+433.113	2.45	79					
+434.053	0.147	80					
+435.031	0.187	81					
+436.122	0.298	82					
+437.17	0.248	83					
+438.421	0.477	84					
+439.544	0.317	85					
+442.564		86					
+445.629		87	antisaccade	False	2218.0	True	True
+448.746		88	antisaccade	False	2283.0	True	True
+452.122		89	antisaccade	False	2530.0	True	True
+455.22		90	antisaccade	True	2249.0	True	True
+458.596		91	antisaccade	True	2539.0	True	True
+461.612		92	antisaccade	False	2177.0	True	True
+464.664		93	antisaccade	False	2204.0	True	True
+467.69		94	antisaccade	False	2174.0	True	True
+470.888		95	antisaccade	False	2357.0	True	True
+474.163		96	antisaccade	False	2421.0	True	True
+483.882	9.712	97					
+488.128	4.242	98					
+490.145		99					
+497.793	7.643	100					
+498.606	0.185	101					
+499.456	0.293	102					
+500.167	0.154	103					
+501.108	0.364	104					
+501.969	0.268	105					
+502.825	0.281	106					
+503.802	0.373	107					
+504.687	0.326	108					
+505.671	0.405	109					
+506.458	0.228	110					
+507.459	0.422	111					
+508.652	1.14	112					
+511.535	2.094	113					
+512.439	0.109	114					
+513.311	0.085	115					
+514.181	0.055	116					
+515.111	0.119	117					
+515.944	0.04	118					
+517.97		119					
+518.916	0.938	120					
+519.645	0.129	121					
+520.551	0.336	122					
+521.582	0.47	123					
+522.463	0.313	124					
+523.669	0.621	125					
+524.719	0.485	126					
+525.609	0.326	127					
+526.577	0.394	128					
+527.574	0.424	129					
+528.554	0.405	130					
+529.516	0.399	131					
+530.489	0.92	132					
+531.36	0.071	133					
+532.326	0.175	134					
+533.385	0.269	135					
+534.351	0.165	136					
+535.415	0.263	137					
+536.382	0.147	138					
+539.414		139					
+542.656		140	prosaccade	False	2382.0	False	True
+545.94		141	prosaccade	True	2441.0	False	True
+549.239		142	prosaccade	True	2452.0	False	True
+552.339		143	prosaccade	True	2251.0	False	True
+555.222		144	prosaccade	True	2029.0	False	True
+558.588		145	prosaccade	True	2514.0	False	True
+562.045		146	prosaccade	True	2600.0	False	True
+565.407		147	prosaccade	True	2511.0	False	True
+568.641		148	prosaccade	True	2377.0	False	True
+571.883		149	prosaccade	True	2386.0	False	True
+575.22		150	prosaccade	False	2492.0	False	True
+578.266		151	prosaccade	False	2199.0	False	True
+581.597		152	prosaccade	False	2487.0	False	True
+584.72		153	prosaccade	True	2309.0	False	True
+587.952		154	prosaccade	False	2385.0	False	True
+591.393		155	prosaccade	False	2587.0	False	True
+594.417		156	prosaccade	False	2179.0	False	True
+597.717		157	prosaccade	False	2443.0	False	True
+600.898		158	prosaccade	True	2322.0	False	True
+604.225		159	prosaccade	True	2510.0	False	True
+606.236		160					
+607.249	1.001	161					
+608.201	0.33	162					
+609.3	0.528	163					
+610.277	0.401	164					
+611.161	0.319	165					
+612.289	0.528	166					
+613.216	0.339	167					
+614.339	0.523	168					
+615.239	0.33	169					
+616.257	0.434	170					
+617.134	0.293	171					
+618.11	0.414	172					
+619.512	1.346	173					
+621.691	1.382	174					
+622.791	0.307	175					
+623.82	0.238	176					
+624.648	0.021	177					
+626.576	1.116	178					
+627.819	0.454	179					
+629.849		180					
+630.748	0.889	181					
+631.476	0.104	182					
+632.651	0.602	183					
+633.913	0.698	184					
+635.073	0.591	185					
+636.441	0.807	186					
+637.643	0.627	187					
+638.575	0.359	188					
+639.842	0.693	189					
+641.197	0.763	190					
+642.469	0.684	191					
+643.62	0.571	192					
+644.801	1.123	193					
+645.681	0.099	194					
+646.758	0.276	195					
+647.853	0.295	196					
+648.901	0.249	197					
+650.329	0.64	198					
+651.462	0.335	199					
+654.491		200					
+657.606		201	antisaccade	False	2259.0	False	True
+660.569		202	antisaccade	False	2100.0	False	True
+663.857		203	antisaccade	True	2430.0	False	True
+666.942		204	antisaccade	True	2246.0	False	True
+670.144		205	antisaccade	False	2348.0	False	True
+673.375		206	antisaccade	True	2378.0	False	True
+676.594		207	antisaccade	False	2354.0	False	True
+679.496		208	antisaccade	False	2044.0	False	True
+682.939		209	antisaccade	True	2603.0	False	True
+686.112		210	antisaccade	False	2331.0	False	True
+689.072		211	antisaccade	False	2114.0	False	True
+692.405		212	antisaccade	False	2483.0	False	True
+695.663		213	antisaccade	False	2409.0	False	True
+698.73		214	antisaccade	False	2209.0	False	True
+701.863		215	antisaccade	True	2271.0	False	True
+704.804		216	antisaccade	True	2099.0	False	True
+708.165		217	antisaccade	True	2498.0	False	True
+711.5		218	antisaccade	True	2477.0	False	True
+714.644		219	antisaccade	True	2290.0	False	True
+717.544		220	antisaccade	False	2060.0	False	True
+720.568		221					
+723.703		222	prosaccade	True	2278.0	False	True
+727.016		223	prosaccade	False	2470.0	False	True
+730.11		224	prosaccade	True	2242.0	False	True
+733.478		225	prosaccade	False	2506.0	False	True
+736.72		226	prosaccade	False	2387.0	False	True
+739.864		227	prosaccade	False	2318.0	False	True
+743.315		228	prosaccade	True	2608.0	False	True
+746.479		229	prosaccade	False	2296.0	False	True
+749.746		230	prosaccade	False	2405.0	False	True
+752.785		231	prosaccade	True	2199.0	False	True
+755.852		232	prosaccade	False	2222.0	False	True
+758.803		233	prosaccade	False	2098.0	False	True
+762.121		234	prosaccade	True	2471.0	False	True
+765.387		235	prosaccade	False	2412.0	False	True
+768.71		236	prosaccade	False	2469.0	False	True
+771.808		237	prosaccade	False	2269.0	False	True
+775.081		238	prosaccade	False	2420.0	False	True
+778.108		239	prosaccade	False	2176.0	False	True
+781.075		240	prosaccade	False	2133.0	False	True
+784.354		241	prosaccade	False	2417.0	False	True
+786.372		242					
+858.51	72.123	243					
+860.44	1.322	244					
+861.306	0.291	245					
+862.244	0.365	246					
+863.016	0.203	247					
+863.767	0.172	248					
+864.497	0.163	249					
+865.24	0.157	250					
+866.294	0.465	251					
+867.017	0.133	252					
+867.826	0.224	253					
+868.629	0.211	254					
+869.96	1.272	255					
+873.218	2.451	256					
+874.114	0.113	257					
+875.038	0.119	258					
+875.932	0.099	259					
+876.833	0.114	260					
+877.688	0.082	261					
+880.715		262					
+883.789		263	antisaccade	False	2209.0	False	True
+886.99		264	antisaccade	False	2330.0	False	True
+890.445		265	antisaccade	True	2603.0	False	True
+893.345		266	antisaccade	True	2052.0	False	True
+896.416		267	antisaccade	True	2214.0	False	True
+899.676		268	antisaccade	True	2390.0	False	True
+903.106		269	antisaccade	True	2568.0	False	True
+906.029		270	antisaccade	True	2069.0	False	True
+909.446		271	antisaccade	True	2577.0	False	True
+912.655		272	antisaccade	True	2362.0	False	True
+916.065		273	antisaccade	False	2554.0	False	True
+919.432		274	antisaccade	True	2507.0	False	True
+922.7		275	antisaccade	True	2401.0	False	True
+925.961		276	antisaccade	False	2401.0	False	True
+929.234		277	antisaccade	True	2407.0	False	True
+932.317		278	antisaccade	True	2230.0	False	True
+935.437		279	antisaccade	False	2278.0	False	True
+938.855		280	antisaccade	True	2570.0	False	True
+942.097		281	antisaccade	True	2378.0	False	True
+945.142		282	antisaccade	True	2205.0	False	True
+1005.806	60.645	283					
+1007.84		284					
+1009.064	1.205	285					
+1010.654	0.949	286					
+1011.569	0.329	287					
+1012.727	0.561	288					
+1013.838	0.529	289					
+1014.919	0.498	290					
+1015.956	0.446	291					
+1016.886	0.359	292					
+1018.064	0.587	293					
+1019.234	0.577	294					
+1020.278	0.457	295					
+1021.412	0.551	296					
+1023.2	1.724	297					
+1027.43	3.42	298					
+1028.41	0.177	299					
+1029.381	0.17	300					
+1030.555	0.371	301					
+1031.638	0.278	302					
+1033.073	0.624	303					
+1035.101		304					
+1036.411	1.29	305					
+1037.182	0.114	306					
+1038.329	0.55	307					
+1039.441	0.529	308					
+1040.649	0.615	309					
+1041.841	0.6	310					
+1043.01	0.577	311					
+1044.013	0.407	312					
+1045.173	0.588	313					
+1046.313	0.542	314					
+1047.485	0.586	315					
+1048.685	0.608	316					
+1049.939	1.19	317					
+1050.77	0.021	318					
+1051.729	0.157	319					
+1053.016	0.468	320					
+1054.238	0.411	321					
+1055.318	0.275	322					
+1056.421	0.285	323					
+1059.461		324					
+1062.742		325	prosaccade	False	2410.0	False	True
+1065.89		326	prosaccade	False	2257.0	False	True
+1069.177		327	prosaccade	True	2461.0	False	True
+1072.309		328	prosaccade	True	2263.0	False	True
+1075.222		329	prosaccade	False	2079.0	False	True
+1078.31		330	prosaccade	False	2232.0	False	True
+1081.229		331	prosaccade	False	2048.0	False	True
+1084.531		332	prosaccade	False	2403.0	False	True
+1087.827		333	prosaccade	False	2436.0	False	True
+1091.201		334	prosaccade	False	2533.0	False	True
+1094.448		335	prosaccade	True	2380.0	False	True
+1097.835		336	prosaccade	True	2526.0	False	True
+1100.852		337	prosaccade	False	2144.0	False	True
+1103.765		338	prosaccade	False	2066.0	False	True
+1106.988		339	prosaccade	False	2354.0	False	True
+1110.221		340	prosaccade	True	2377.0	False	True
+1113.252		341	prosaccade	False	2178.0	False	True
+1116.668		342	prosaccade	False	2551.0	False	True
+1120.056		343	prosaccade	False	2530.0	False	True
+1123.525		344	prosaccade	False	2617.0	False	True
+1125.568		345					
+1126.746	1.156	346					
+1127.735	0.374	347					
+1128.704	0.377	348					
+1129.604	0.324	349					
+1130.291	0.101	350					
+1131.269	0.391	351					
+1132.276	0.405	352					
+1133.053	0.196	353					
+1134.008	0.377	354					
+1134.869	0.258	355					
+1135.693	0.249	356					
+1136.644	0.379	357					
+1137.772	1.064	358					
+1141.287	2.719	359					
+1142.203	0.093	360					
+1143.412	0.379	361					
+1144.359	0.127	362					
+1145.641	0.474	363					
+1146.773	0.31	364					
+1148.816		365					
+1149.795	0.954	366					
+1150.592	0.159	367					
+1151.74	0.56	368					
+1153.344	1.028	369					
+1155.293	1.359	370					
+1156.775	0.904	371					
+1158.542	1.192	372					
+1159.576	0.418	373					
+1161.21	1.035	374					
+1162.452	0.655	375					
+1163.429	0.376	376					
+1165.363	1.348	377					
+1167.08	1.649	378					
+1167.979	0.077	379					
+1169.05	0.261	380					
+1170.057	0.202	381					
+1171.037	0.185	382					
+1172.039	0.169	383					
+1173.581	0.739	384					
+1176.62		385					
+1179.879		386	antisaccade	True	2375.0	False	True
+1182.932		387	antisaccade	False	2162.0	False	True
+1186.13		388	antisaccade	False	2323.0	False	True
+1189.494		389	antisaccade	True	2517.0	False	True
+1192.481		390	antisaccade	False	2125.0	False	True
+1195.347		391	antisaccade	False	2034.0	False	True
+1198.637		392	antisaccade	False	2413.0	False	True
+1202.049		393	antisaccade	True	2561.0	False	True
+1205.415		394	antisaccade	False	2494.0	False	True
+1208.869		395	antisaccade	True	2581.0	False	True
+1212.082		396	antisaccade	True	2336.0	False	True
+1215.108		397	antisaccade	False	2162.0	False	True
+1218.263		398	antisaccade	True	2294.0	False	True
+1221.688		399	antisaccade	False	2585.0	False	True
+1224.902		400	antisaccade	False	2349.0	False	True
+1227.879		401	antisaccade	True	2120.0	False	True
+1231.105		402	antisaccade	True	2361.0	False	True
+1234.189		403	antisaccade	True	2235.0	False	True
+1237.214		404	antisaccade	False	2146.0	False	True
+1240.701		405	antisaccade	True	2604.0	False	True
+1242.754		406					
+1244.365	1.585	407					
+1245.154	0.149	408					
+1246.224	0.481	409					
+1247.544	0.72	410					
+1248.657	0.497	411					
+1249.892	0.649	412					
+1251.17	0.678	413					
+1252.355	0.579	414					
+1253.546	0.593	415					
+1254.779	0.65	416					
+1256.0	0.601	417					
+1257.305	0.691	418					
+1258.737	1.362	419					
+1259.731	0.182	420					
+1260.765	0.22	421					
+1262.073	0.494	422					
+1263.189	0.306	423					
+1264.273	0.26	424					
+1265.733	0.649	425					
+1268.763		426					
+1271.703		427	prosaccade	True	2091.0	False	True
+1275.191		428	prosaccade	False	2620.0	False	True
+1278.304		429	prosaccade	True	2259.0	False	True
+1281.668		430	prosaccade	False	2503.0	False	True
+1284.957		431	prosaccade	True	2410.0	False	True
+1288.076		432	prosaccade	True	2259.0	False	True
+1291.437		433	prosaccade	False	2510.0	False	True
+1294.842		434	prosaccade	True	2542.0	False	True
+1298.196		435	prosaccade	False	2494.0	False	True
+1301.633		436	prosaccade	False	2555.0	False	True
+1304.778		437	prosaccade	True	2297.0	False	True
+1308.246		438	prosaccade	False	2604.0	False	True
+1311.25		439	prosaccade	True	2130.0	False	True
+1314.621		440	prosaccade	True	2498.0	False	True
+1317.983		441	prosaccade	False	2508.0	False	True
+1321.463		442	prosaccade	False	2601.0	False	True
+1324.585		443	prosaccade	False	2279.0	False	True
+1327.662		444	prosaccade	False	2208.0	False	True
+1330.585		445	prosaccade	False	2052.0	False	True
+1333.82		446	prosaccade	False	2376.0	False	True
+1335.846		447					
+1337.221	1.348	448					
+1338.564	0.711	449					
+1339.694	0.541	450					
+1340.712	0.424	451					
+1341.888	0.592	452					
+1343.103	0.61	453					
+1344.158	0.469	454					
+1345.348	0.607	455					
+1346.471	0.519	456					
+1347.915	0.86	457					
+1349.158	0.651	458					
+1350.704	0.949	459					
+1352.047	1.271	460					
+1353.29	0.416	461					
+1354.478	0.402	462					
+1355.775	0.482	463					
+1357.156	0.562	464					
+1358.529	0.554	465					
+1359.914	0.557	466					
+1362.95		467					
+1366.113		468	antisaccade	True	2308.0	False	True
+1368.997		469	antisaccade	False	2033.0	False	True
+1372.05		470	antisaccade	False	2184.0	False	True
+1375.202		471	antisaccade	True	2295.0	False	True
+1378.448		472	antisaccade	True	2371.0	False	True
+1381.637		473	antisaccade	True	2309.0	False	True
+1384.965		474	antisaccade	False	2491.0	False	True
+1388.327		475	antisaccade	False	2484.0	False	True
+1391.77		476	antisaccade	False	2572.0	False	True
+1394.685		477	antisaccade	False	2060.0	False	True
+1398.074		478	antisaccade	True	2530.0	False	True
+1401.351		479	antisaccade	False	2405.0	False	True
+1404.293		480	antisaccade	True	2077.0	False	True
+1407.708		481	antisaccade	True	2561.0	False	True
+1411.04		482	antisaccade	False	2451.0	False	True
+1414.026		483	antisaccade	True	2153.0	False	True
+1417.113		484	antisaccade	True	2228.0	False	True
+1420.592		485	antisaccade	False	2614.0	False	True
+1423.631		486	antisaccade	False	2164.0	False	True
+1427.086		487	antisaccade	False	2579.0	False	True
+1432.618	5.502	488					
+1434.661		489					
+1436.711		490					
+1438.397	1.655	491					
+1439.442	0.421	492					
+1440.5	0.451	493					
+1441.542	0.455	494					
+1442.614	0.462	495					
+1443.744	0.507	496					
+1444.781	0.431	497					
+1446.094	0.71	498					
+1447.556	0.872	499					
+1448.988	0.849	500					
+1450.112	0.518	501					
+1451.313	0.59	502					
+1452.464	1.076	503					
+1453.421	0.133	504					
+1454.37	0.12	505					
+1455.409	0.221	506					
+1456.672	0.45	507					
+1457.787	0.283	508					
+1458.91	0.307	509					
+1461.951		510					
+1464.933		511	prosaccade	True	2104.0	False	True
+1468.408		512	prosaccade	True	2617.0	False	True
+1471.577		513	prosaccade	True	2305.0	False	True
+1474.489		514	prosaccade	True	2026.0	False	True
+1477.477		515	prosaccade	True	2130.0	False	True
+1480.502		516	prosaccade	False	2153.0	False	True
+1483.971		517	prosaccade	False	2580.0	False	True
+1487.431		518	prosaccade	True	2599.0	False	True
+1490.891		519	prosaccade	True	2598.0	False	True
+1494.233		520	prosaccade	False	2487.0	False	True
+1497.532		521	prosaccade	False	2440.0	False	True
+1500.702		522	prosaccade	False	2291.0	False	True
+1503.968		523	prosaccade	True	2379.0	False	True
+1507.215		524	prosaccade	False	2367.0	False	True
+1510.238		525	prosaccade	True	2156.0	False	True
+1513.621		526	prosaccade	True	2523.0	False	True
+1516.666		527	prosaccade	True	2165.0	False	True
+1519.794		528	prosaccade	False	2266.0	False	True
+1522.74		529	prosaccade	False	2067.0	False	True
+1525.774		530	prosaccade	True	2195.0	False	True
+1527.809		531					
+1529.257	1.414	532					
+1530.601	0.71	533					
+1531.756	0.549	534					
+1532.812	0.453	535					
+1534.211	0.801	536					
+1535.407	0.595	537					
+1536.603	0.592	538					
+1537.808	0.596	539					
+1539.147	0.718	540					
+1540.565	0.819	541					
+1542.438	1.289	542					
+1543.682	0.653	543					
+1544.849	1.088	544					
+1545.73	0.063	545					
+1546.704	0.155	546					
+1547.763	0.238	547					
+1548.996	0.41	548					
+1551.435	1.604	549					
+1552.891	0.625	550					
+1554.929		551					
+1556.206	1.243	552					
+1557.445	0.593	553					
+1558.544	0.492	554					
+1559.511	0.361	555					
+1560.478	0.361	556					
+1562.097	1.011	557					
+1563.386	0.669	558					
+1565.285	1.28	559					
+1567.002	1.129	560					
+1570.156	2.565	561					
+1571.98	1.21	562					
+1573.256	0.66	563					
+1574.576	1.242	564					
+1575.638	0.252	565					
+1576.973	0.513	566					
+1578.292	0.483	567					
+1581.943	2.835	568					
+1582.9	0.139	569					
+1585.251	1.514	570					
+1588.292		571					
+1591.563		572	antisaccade	False	2419.0	False	True
+1595.04		573	antisaccade	True	2604.0	False	True
+1598.314		574	antisaccade	False	2402.0	False	True
+1601.493		575	antisaccade	True	2295.0	False	True
+1604.698		576	antisaccade	True	2341.0	False	True
+1607.883		577	antisaccade	True	2311.0	False	True
+1611.118		578	antisaccade	False	2350.0	False	True
+1614.435		579	antisaccade	True	2437.0	False	True
+1617.817		580	antisaccade	False	2517.0	False	True
+1620.988		581	antisaccade	True	2286.0	False	True
+1623.974		582	antisaccade	True	2109.0	False	True
+1627.116		583	antisaccade	False	2266.0	False	True
+1630.209		584	antisaccade	False	2201.0	False	True
+1633.468		585	antisaccade	True	2390.0	False	True
+1636.607		586	antisaccade	False	2266.0	False	True
+1639.658		587	antisaccade	True	2169.0	False	True
+1642.982		588	antisaccade	True	2440.0	False	True
+1646.272		589	antisaccade	True	2419.0	False	True
+1649.473		590	antisaccade	True	2322.0	False	True
+1652.63		591	antisaccade	True	2306.0	False	True
+1654.692		592					
+1655.705	0.975	593					
+1656.545	0.199	594					
+1657.406	0.258	595					
+1658.213	0.204	596					
+1659.372	0.549	597					
+1660.741	0.779	598					
+1661.979	0.631	599					
+1663.477	0.897	600					
+1664.447	0.365	601					
+1665.849	0.801	602					
+1667.12	0.671	603					
+1668.508	0.793	604					
+1670.09	1.501	605					
+1671.553	0.636	606					
+1672.497	0.116	607					
+1673.748	0.428	608					
+1675.302	0.765	609					
+1676.342	0.217	610					
+1677.474	0.315	611					
+1679.52		612					
+1680.726	1.167	613					
+1681.866	0.483	614					
+1683.055	0.598	615					
+1684.126	0.471	616					
+1685.079	0.357	617					
+1686.103	0.418	618					
+1687.48	0.778	619					
+1688.701	0.611	620					
+1689.755	0.429	621					
+1691.014	0.67	622					
+1692.439	0.817	623					
+1693.416	0.36	624					
+1694.548	1.051	625					
+1696.973	1.587	626					
+1698.299	0.506	627					
+1699.759	0.621	628					
+1700.781	0.203	629					
+1701.84	0.236	630					
+1702.996	0.343	631					
+1706.043		632					
+1709.045		633	prosaccade	True	2130.0	False	True
+1711.972		634	prosaccade	False	2056.0	False	True
+1715.096		635	prosaccade	True	2236.0	False	True
+1718.199		636	prosaccade	True	2227.0	False	True
+1721.336		637	prosaccade	True	2275.0	False	True
+1724.524	1.672	638	prosaccade	True	2307.0	False	True
+1727.542		639	prosaccade	False	2129.0	False	True
+1730.617		640	prosaccade	True	2198.0	False	True
+1733.867		641	prosaccade	False	2363.0	False	True
+1737.185		642	prosaccade	False	2441.0	False	True
+1740.412		643	prosaccade	True	2336.0	False	True
+1743.687		644	prosaccade	False	2423.0	False	True
+1747.084		645	prosaccade	False	2515.0	False	True
+1750.274		646	prosaccade	False	2303.0	False	True
+1753.668		647	prosaccade	False	2514.0	False	True
+1756.89		648	prosaccade	False	2345.0	False	True
+1760.255		649	prosaccade	True	2478.0	False	True
+1763.611		650	prosaccade	True	2484.0	False	True
+1766.847		651	prosaccade	False	2346.0	False	True
+1770.224		652	prosaccade	True	2524.0	False	True
+1772.271		653					
+1773.585	1.276	654					
+1774.524	0.309	655					
+1775.682	0.547	656					
+1776.648	0.341	657					
+1777.658	0.393	658					
+1778.809	0.541	659					
+1779.926	0.513	660					
+1780.94	0.4	661					
+1782.143	0.594	662					
+1783.253	0.501	663					
+1784.547	0.68	664					
+1785.676	0.509	665					
+1787.215	1.455	666					
+1788.2	0.195	667					
+1789.16	0.123	668					
+1790.633	0.652	669					
+1792.07	0.599	670					
+1793.624	0.739	671					
+1794.888	0.42	672					
+1797.937		673					
+1800.947		674	antisaccade	False	2113.0	False	True
+1804.279		675	antisaccade	True	2459.0	False	True
+1807.775		676	antisaccade	False	2614.0	False	True
+1810.874		677	antisaccade	True	2247.0	False	True
+1814.177		678	antisaccade	True	2430.0	False	True
+1817.117		679	antisaccade	True	2056.0	False	True
+1820.485		680	antisaccade	True	2482.0	False	True
+1823.794		681	antisaccade	True	2458.0	False	True
+1827.281		682	antisaccade	True	2605.0	False	True
+1830.533		683	antisaccade	False	2364.0	False	True
+1833.829		684	antisaccade	False	2415.0	False	True
+1836.885		685	antisaccade	False	2189.0	False	True
+1839.821		686	antisaccade	True	2082.0	False	True
+1842.869		687	antisaccade	True	2159.0	False	True
+1846.365		688	antisaccade	True	2616.0	False	True
+1849.454		689	antisaccade	False	2201.0	False	True
+1852.578		690	antisaccade	False	2254.0	False	True
+1856.073		691	antisaccade	False	2603.0	False	True
+1859.374		692	antisaccade	False	2415.0	False	True
+1862.319		693	antisaccade	True	2062.0	False	True
+1897.932	35.57	694					
+1899.973		695					
+1902.447	2.432	696					
+1903.276	0.189	697					
+1904.219	0.333	698					
+1905.244	0.425	699					
+1906.247	0.396	700					
+1907.52	0.667	701					
+1908.611	0.491	702					
+1909.816	0.596	703					
+1910.812	0.391	704					
+1911.916	0.493	705					
+1913.008	0.486	706					
+1914.322	0.721	707					
+1916.266	1.856	708					
+1917.814	0.74	709					
+1918.862	0.219	710					
+1919.841	0.149	711					
+1920.895	0.234	712					
+1921.866	0.126	713					
+1922.922	0.217	714					
+1925.989		715					
+1929.308		716	prosaccade	True	2460.0	False	True
+1932.652		717	prosaccade	True	2493.0	False	True
+1935.778		718	prosaccade	False	2247.0	False	True
+1938.803		719	prosaccade	True	2130.0	False	True
+1941.925		720	prosaccade	False	2243.0	False	True
+1944.968		721	prosaccade	False	2161.0	False	True
+1948.249		722	prosaccade	False	2435.0	False	True
+1951.201		723	prosaccade	True	2068.0	False	True
+1954.501		724	prosaccade	False	2417.0	False	True
+1957.676		725	prosaccade	False	2283.0	False	True
+1960.702		726	prosaccade	False	2135.0	False	True
+1964.072		727	prosaccade	False	2505.0	False	True
+1967.353		728	prosaccade	False	2407.0	False	True
+1970.855		729	prosaccade	True	2623.0	False	True
+1974.363	0.101	730	prosaccade	False	2618.0	False	True
+1977.599		731	prosaccade	True	2341.0	False	True
+1980.871		732	prosaccade	False	2417.0	False	True
+1984.094		733	prosaccade	False	2324.0	False	True
+1987.507		734	prosaccade	False	2558.0	False	True
+1990.739		735	prosaccade	True	2375.0	False	True
+1992.787		736					
+1993.951	1.118	737					
+1994.623	0.032	738					
+1995.637	0.408	739					
+1996.655	0.411	740					
+1997.706	0.428	741					
+1998.806	0.493	742					
+1999.974	0.543	743					
+2000.905	0.313	744					
+2001.89	0.376	745					
+2002.976	0.467	746					
+2003.947	0.366	747					
+2004.956	0.393	748					
+2005.979	0.933	749					
+2007.433	0.604	750					
+2008.559	0.298	751					
+2009.514	0.12	752					
+2010.383	0.021	753					
+2011.292	0.089	754					
+2012.47	0.351	755					
+2014.533		756					
+2015.545	0.966	757					
+2016.611	0.425	758					
+2017.714	0.493	759					
+2018.483	0.142	760					
+2019.373	0.288	761					
+2020.296	0.301	762					
+2021.211	0.294	763					
+2022.188	0.367	764					
+2023.212	0.422	765					
+2024.545	0.738	766					
+2025.512	0.358	767					
+2028.631	2.491	768					
+2030.126	1.404	769					
+2031.107	0.153	770					
+2031.997	0.057	771					
+2033.033	0.18	772					
+2034.85	0.979	773					
+2037.003	1.329	774					
+2038.615	0.762	775					
+2041.695		776					
+2044.84		777	antisaccade	False	2260.0	False	True
+2047.873		778	antisaccade	True	2145.0	False	True
+2050.919		779	antisaccade	False	2146.0	False	True
+2054.118		780	antisaccade	False	2318.0	False	True
+2057.252		781	antisaccade	True	2247.0	False	True
+2060.6		782	antisaccade	False	2449.0	False	True
+2064.046		783	antisaccade	True	2549.0	False	True
+2067.12		784	antisaccade	False	2178.0	False	True
+2070.549		785	antisaccade	True	2549.0	False	True
+2073.749		786	antisaccade	False	2297.0	False	True
+2076.84		787	antisaccade	True	2195.0	False	True
+2080.103		788	antisaccade	True	2363.0	False	True
+2083.491		789	antisaccade	False	2511.0	False	True
+2086.642		790	antisaccade	False	2260.0	False	True
+2089.579		791	antisaccade	True	2054.0	False	True
+2092.546		792	antisaccade	False	2076.0	False	True
+2095.907		793	antisaccade	True	2485.0	False	True
+2099.041		794	antisaccade	True	2243.0	False	True
+2102.045		795	antisaccade	False	2111.0	False	True
+2104.98		796	antisaccade	True	2082.0	False	True
+2107.042		797					
+2108.865	1.776	798					
+2109.708	0.181	799					
+2110.905	0.576	800					
+2111.802	0.271	801					
+2112.656	0.223	802					
+2114.006	0.744	803					
+2115.11	0.494	804					
+2116.472	0.758	805					
+2117.708	0.611	806					
+2119.368	1.052	807					
+2120.383	0.401	808					
+2121.502	0.502	809					
+2124.214	2.616	810					
+2127.129	2.08	811					
+2128.135	0.178	812					
+2129.09	0.123	813					
+2130.147	0.211	814					
+2131.244	0.26	815					
+2132.427	0.342	816					
+2134.492		817					
+2135.668	1.128	818					
+2136.546	0.226	819					
+2137.554	0.4	820					
+2138.774	0.62	821					
+2139.717	0.313	822					
+2141.123	0.802	823					
+2142.092	0.346	824					
+2143.206	0.514	825					
+2144.789	0.967	826					
+2145.856	0.454	827					
+2146.919	0.425	828					
+2148.057	0.535	829					
+2149.764	1.613	830					
+2151.257	0.665	831					
+2152.511	0.415	832					
+2153.629	0.289	833					
+2154.534	0.057	834					
+2155.494	0.106	835					
+2156.474	0.141	836					
+2159.547		837					
+2162.952		838	prosaccade	False	2518.0	False	True
+2165.914		839	prosaccade	False	2061.0	False	True
+2168.86		840	prosaccade	True	2065.0	False	True
+2172.16		841	prosaccade	False	2405.0	False	True
+2175.589		842	prosaccade	True	2529.0	False	True
+2178.68		843	prosaccade	False	2224.0	False	True
+2181.734		844	prosaccade	True	2149.0	False	True
+2185.076		845	prosaccade	False	2459.0	False	True
+2188.289		846	prosaccade	False	2312.0	False	True
+2191.665		847	prosaccade	False	2480.0	False	True
+2195.156		848	prosaccade	False	2600.0	False	True
+2198.489		849	prosaccade	False	2450.0	False	True
+2201.738		850	prosaccade	False	2399.0	False	True
+2204.809		851	prosaccade	False	2182.0	False	True
+2208.225		852	prosaccade	True	2527.0	False	True
+2211.297		853	prosaccade	False	2189.0	False	True
+2214.273		854	prosaccade	False	2092.0	False	True
+2217.698		855	prosaccade	False	2533.0	False	True
+2221.099		856	prosaccade	True	2515.0	False	True
+2224.284		857	prosaccade	True	2311.0	False	True
+2226.34		858					
+2228.607	2.215	859					
+2229.807	0.56	860					
+2230.941	0.503	861					
+2231.974	0.411	862					
+2233.075	0.469	863					
+2234.181	0.5	864					
+2235.159	0.338	865					
+2236.196	0.432	866					
+2237.252	0.436	867					
+2238.197	0.295	868					
+2239.375	0.56	869					
+2240.582	0.597	870					
+2241.626	0.949	871					
+2242.601	0.135	872					
+2243.708	0.277	873					
+2244.998	0.446	874					
+2246.132	0.305	875					
+2247.251	0.268	876					
+2248.6	0.532	877					
+2250.664		878					
+2251.38	0.664	879					
+2252.956	0.9	880					
+2254.118	0.542	881					
+2255.314	0.593	882					
+2256.631	0.68	883					
+2258.014	0.759	884					
+2259.131	0.492	885					
+2260.224	0.469	886					
+2261.38	0.533	887					
+2262.72	0.73	888					
+2263.949	0.627	889					
+2265.582	1.011	890					
+2266.563	0.885	891					
+2267.76	0.343	892					
+2269.098	0.5	893					
+2270.472	0.531	894					
+2271.73	0.418	895					
+2273.254	0.684	896					
+2274.806	0.72	897					
+2277.865		898					
+2281.114		899	antisaccade	False	2358.0	False	True
+2284.296		900	antisaccade	True	2311.0	False	True
+2287.331		901	antisaccade	False	2139.0	False	True
+2290.641		902	antisaccade	True	2428.0	False	True
+2294.158		903	antisaccade	False	2624.0	False	True
+2297.341		904	antisaccade	True	2275.0	False	True
+2300.486		905	antisaccade	True	2287.0	False	True
+2304.007		906	antisaccade	True	2614.0	False	True
+2307.413		907	antisaccade	False	2512.0	False	True
+2310.908		908	antisaccade	True	2590.0	False	True
+2314.341		909	antisaccade	False	2552.0	False	True
+2317.703		910	antisaccade	False	2491.0	False	True
+2320.77		911	antisaccade	False	2159.0	False	True
+2323.693		912	antisaccade	False	2034.0	False	True
+2326.74		913	antisaccade	True	2165.0	False	True
+2330.076		914	antisaccade	False	2471.0	False	True
+2333.407		915	antisaccade	False	2430.0	False	True
+2336.447	0.266	916	antisaccade	True	2177.0	False	True
+2339.475		917	antisaccade	False	2124.0	False	True
+2342.492		918	antisaccade	False	2128.0	False	True
+2344.426	1.882	919					
+2344.479		920					

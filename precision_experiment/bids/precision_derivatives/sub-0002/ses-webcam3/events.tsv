@@ -1,0 +1,808 @@
+onset	duration	trial_index	trial-tag	center_x	center_y	start-x	start-y
+0.0	175.309	0					
+41.508		1					
+44.486		2					
+44.487		3					
+102.547	58.059	4					
+121.739	19.187	5					
+122.966	0.627	6		960.0	536.0		
+124.364	0.828	7		960.0	536.0		
+125.617	0.7	8		960.0	536.0		
+126.921	0.735	9		960.0	536.0		
+128.177	0.703	10		960.0	536.0		
+129.43	0.694	11		960.0	536.0		
+131.365	1.377	12		960.0	536.0		
+132.953	1.03	13		960.0	536.0		
+134.435	0.929	14		960.0	536.0		
+135.853	0.847	15		960.0	536.0		
+137.169	0.747	16		960.0	536.0		
+139.097	1.37	17		960.0	536.0		
+141.451	1.793	18		960.0	536.0		
+143.304	1.296	19		960.0	536.0		
+144.955	1.099	20		960.0	536.0		
+146.675	1.152	21		960.0	536.0		
+148.848	1.621	22		960.0	536.0		
+150.477	1.068	23		960.0	536.0		
+153.024	2.492	24					
+155.087		25	fixation-stimulus	960.0	536.0	0.0	0.0
+156.004		26	validation-stimulus	960.0	536.0	409.0	-405.0
+156.922		27	validation-stimulus	960.0	536.0	409.0	405.0
+157.836		28	validation-stimulus	960.0	536.0	-409.0	0.0
+158.753		29	validation-stimulus	960.0	536.0	0.0	0.0
+159.69		30	validation-stimulus	960.0	536.0	0.0	405.0
+160.621		31	validation-stimulus	960.0	536.0	0.0	-405.0
+161.535		32	validation-stimulus	960.0	536.0	-409.0	405.0
+162.474		33	validation-stimulus	960.0	536.0	-409.0	-405.0
+163.385		34	validation-stimulus	960.0	536.0	409.0	0.0
+165.415		35	fixation-stimulus	960.0	536.0	0.0	0.0
+166.369		36	validation-stimulus	960.0	536.0	409.0	405.0
+167.297		37	validation-stimulus	960.0	536.0	0.0	405.0
+168.228		38	validation-stimulus	960.0	536.0	0.0	0.0
+169.142		39	validation-stimulus	960.0	536.0	-409.0	-405.0
+170.062		40	validation-stimulus	960.0	536.0	-409.0	0.0
+170.991		41	validation-stimulus	960.0	536.0	-409.0	405.0
+171.907		42	validation-stimulus	960.0	536.0	0.0	-405.0
+172.824		43	validation-stimulus	960.0	536.0	409.0	0.0
+173.76		44	validation-stimulus	960.0	536.0	409.0	-405.0
+175.81		45	fixation-stimulus	960.0	536.0	0.0	0.0
+176.727		46	validation-stimulus	960.0	536.0	-409.0	405.0
+177.655		47	validation-stimulus	960.0	536.0	409.0	0.0
+178.572		48	validation-stimulus	960.0	536.0	409.0	-405.0
+179.495		49	validation-stimulus	960.0	536.0	0.0	405.0
+180.408		50	validation-stimulus	960.0	536.0	409.0	405.0
+181.349		51	validation-stimulus	960.0	536.0	0.0	0.0
+182.257		52	validation-stimulus	960.0	536.0	0.0	-405.0
+183.182		53	validation-stimulus	960.0	536.0	-409.0	0.0
+184.118		54	validation-stimulus	960.0	536.0	-409.0	-405.0
+186.158		55	fixation-stimulus	960.0	536.0	0.0	0.0
+187.097		56	validation-stimulus	960.0	536.0	409.0	0.0
+188.026		57	validation-stimulus	960.0	536.0	0.0	0.0
+188.954		58	validation-stimulus	960.0	536.0	-409.0	405.0
+189.891		59	validation-stimulus	960.0	536.0	409.0	405.0
+190.841		60	validation-stimulus	960.0	536.0	0.0	-405.0
+191.771		61	validation-stimulus	960.0	536.0	-409.0	-405.0
+192.692		62	validation-stimulus	960.0	536.0	-409.0	0.0
+193.615		63	validation-stimulus	960.0	536.0	409.0	-405.0
+194.53		64	validation-stimulus	960.0	536.0	0.0	405.0
+196.583		65	fixation-stimulus	960.0	536.0	0.0	0.0
+197.522		66	validation-stimulus	960.0	536.0	-409.0	-405.0
+198.445		67	validation-stimulus	960.0	536.0	409.0	405.0
+199.362		68	validation-stimulus	960.0	536.0	-409.0	405.0
+200.284		69	validation-stimulus	960.0	536.0	409.0	-405.0
+201.202		70	validation-stimulus	960.0	536.0	0.0	-405.0
+202.139		71	validation-stimulus	960.0	536.0	0.0	405.0
+203.07		72	validation-stimulus	960.0	536.0	0.0	0.0
+203.983		73	validation-stimulus	960.0	536.0	409.0	0.0
+204.926		74	validation-stimulus	960.0	536.0	-409.0	0.0
+206.966		75	fixation-stimulus	960.0	536.0	0.0	0.0
+207.913		76	validation-stimulus	960.0	536.0	-409.0	405.0
+208.843		77	validation-stimulus	960.0	536.0	0.0	0.0
+209.765		78	validation-stimulus	960.0	536.0	409.0	405.0
+210.695		79	validation-stimulus	960.0	536.0	409.0	-405.0
+211.614		80	validation-stimulus	960.0	536.0	-409.0	0.0
+212.532		81	validation-stimulus	960.0	536.0	-409.0	-405.0
+213.485		82	validation-stimulus	960.0	536.0	0.0	405.0
+214.419		83	validation-stimulus	960.0	536.0	0.0	-405.0
+215.334		84	validation-stimulus	960.0	536.0	409.0	0.0
+217.402		85	fixation-stimulus	960.0	536.0	0.0	0.0
+218.343		86	validation-stimulus	960.0	536.0	409.0	405.0
+219.252		87	validation-stimulus	960.0	536.0	0.0	-405.0
+220.171		88	validation-stimulus	960.0	536.0	0.0	0.0
+221.086		89	validation-stimulus	960.0	536.0	-409.0	405.0
+222.027		90	validation-stimulus	960.0	536.0	-409.0	0.0
+222.941		91	validation-stimulus	960.0	536.0	409.0	-405.0
+223.879		92	validation-stimulus	960.0	536.0	409.0	0.0
+224.815		93	validation-stimulus	960.0	536.0	0.0	405.0
+225.756		94	validation-stimulus	960.0	536.0	-409.0	-405.0
+227.803		95	fixation-stimulus	960.0	536.0	0.0	0.0
+228.736		96	validation-stimulus	960.0	536.0	409.0	405.0
+229.655		97	validation-stimulus	960.0	536.0	0.0	-405.0
+230.608		98	validation-stimulus	960.0	536.0	409.0	-405.0
+231.524		99	validation-stimulus	960.0	536.0	409.0	0.0
+232.44		100	validation-stimulus	960.0	536.0	0.0	405.0
+233.359		101	validation-stimulus	960.0	536.0	-409.0	0.0
+234.289		102	validation-stimulus	960.0	536.0	-409.0	-405.0
+235.205		103	validation-stimulus	960.0	536.0	0.0	0.0
+236.126		104	validation-stimulus	960.0	536.0	-409.0	405.0
+243.015	6.882	105					
+244.271	0.634	106		960.0	536.0		
+245.615	0.777	107		960.0	536.0		
+247.416	1.226	108		960.0	536.0		
+248.906	0.919	109		960.0	536.0		
+251.31	1.841	110		960.0	536.0		
+252.816	0.942	111		960.0	536.0		
+254.986	1.598	112		960.0	536.0		
+256.518	0.961	113		960.0	536.0		
+258.503	1.421	114		960.0	536.0		
+259.953	0.888	115		960.0	536.0		
+262.976	2.463	116		960.0	536.0		
+265.122	1.58	117		960.0	536.0		
+266.574	0.893	118		960.0	536.0		
+268.522	1.365	119		960.0	536.0		
+271.075	1.997	120		960.0	536.0		
+273.076	1.431	121		960.0	536.0		
+275.114	1.466	122		960.0	536.0		
+276.634	0.936	123		960.0	536.0		
+283.733	7.051	124					
+285.773		125	fixation-stimulus	960.0	536.0	0.0	0.0
+286.715		126	validation-stimulus	960.0	536.0	-409.0	0.0
+287.623		127	validation-stimulus	960.0	536.0	409.0	-405.0
+288.543		128	validation-stimulus	960.0	536.0	-409.0	405.0
+289.47		129	validation-stimulus	960.0	536.0	0.0	-405.0
+290.389		130	validation-stimulus	960.0	536.0	-409.0	-405.0
+291.343		131	validation-stimulus	960.0	536.0	409.0	0.0
+292.276		132	validation-stimulus	960.0	536.0	0.0	0.0
+293.222		133	validation-stimulus	960.0	536.0	409.0	405.0
+294.143		134	validation-stimulus	960.0	536.0	0.0	405.0
+296.194		135	fixation-stimulus	960.0	536.0	0.0	0.0
+297.128		136	validation-stimulus	960.0	536.0	409.0	405.0
+298.066		137	validation-stimulus	960.0	536.0	409.0	-405.0
+299.002		138	validation-stimulus	960.0	536.0	-409.0	0.0
+299.951		139	validation-stimulus	960.0	536.0	-409.0	-405.0
+300.89		140	validation-stimulus	960.0	536.0	0.0	0.0
+301.81		141	validation-stimulus	960.0	536.0	0.0	-405.0
+302.741		142	validation-stimulus	960.0	536.0	409.0	0.0
+303.66		143	validation-stimulus	960.0	536.0	0.0	405.0
+304.579		144	validation-stimulus	960.0	536.0	-409.0	405.0
+306.626		145	fixation-stimulus	960.0	536.0	0.0	0.0
+307.545		146	validation-stimulus	960.0	536.0	409.0	-405.0
+308.485		147	validation-stimulus	960.0	536.0	409.0	0.0
+309.424		148	validation-stimulus	960.0	536.0	409.0	405.0
+310.367		149	validation-stimulus	960.0	536.0	-409.0	-405.0
+311.296		150	validation-stimulus	960.0	536.0	0.0	405.0
+312.217		151	validation-stimulus	960.0	536.0	0.0	-405.0
+313.139		152	validation-stimulus	960.0	536.0	-409.0	0.0
+314.095		153	validation-stimulus	960.0	536.0	-409.0	405.0
+315.018		154	validation-stimulus	960.0	536.0	0.0	0.0
+317.043		155	fixation-stimulus	960.0	536.0	0.0	0.0
+317.979		156	validation-stimulus	960.0	536.0	409.0	405.0
+318.898		157	validation-stimulus	960.0	536.0	-409.0	405.0
+319.83		158	validation-stimulus	960.0	536.0	0.0	-405.0
+320.751		159	validation-stimulus	960.0	536.0	0.0	405.0
+321.685		160	validation-stimulus	960.0	536.0	-409.0	-405.0
+322.603		161	validation-stimulus	960.0	536.0	409.0	0.0
+323.515		162	validation-stimulus	960.0	536.0	409.0	-405.0
+324.432		163	validation-stimulus	960.0	536.0	-409.0	0.0
+325.365		164	validation-stimulus	960.0	536.0	0.0	0.0
+327.403		165	fixation-stimulus	960.0	536.0	0.0	0.0
+328.353		166	validation-stimulus	960.0	536.0	409.0	0.0
+329.283		167	validation-stimulus	960.0	536.0	0.0	-405.0
+330.206		168	validation-stimulus	960.0	536.0	-409.0	405.0
+331.142		169	validation-stimulus	960.0	536.0	0.0	0.0
+332.081		170	validation-stimulus	960.0	536.0	-409.0	-405.0
+333.002		171	validation-stimulus	960.0	536.0	409.0	405.0
+333.923		172	validation-stimulus	960.0	536.0	409.0	-405.0
+334.838		173	validation-stimulus	960.0	536.0	-409.0	0.0
+335.758		174	validation-stimulus	960.0	536.0	0.0	405.0
+337.808		175	fixation-stimulus	960.0	536.0	0.0	0.0
+338.734		176	validation-stimulus	960.0	536.0	-409.0	-405.0
+339.688		177	validation-stimulus	960.0	536.0	-409.0	405.0
+340.607		178	validation-stimulus	960.0	536.0	-409.0	0.0
+341.538		179	validation-stimulus	960.0	536.0	0.0	405.0
+342.472		180	validation-stimulus	960.0	536.0	0.0	0.0
+343.396		181	validation-stimulus	960.0	536.0	409.0	405.0
+344.353		182	validation-stimulus	960.0	536.0	409.0	0.0
+345.277		183	validation-stimulus	960.0	536.0	0.0	-405.0
+346.22		184	validation-stimulus	960.0	536.0	409.0	-405.0
+348.274		185	fixation-stimulus	960.0	536.0	0.0	0.0
+349.2		186	validation-stimulus	960.0	536.0	409.0	0.0
+350.122		187	validation-stimulus	960.0	536.0	0.0	-405.0
+351.048		188	validation-stimulus	960.0	536.0	0.0	405.0
+351.986		189	validation-stimulus	960.0	536.0	-409.0	0.0
+352.915		190	validation-stimulus	960.0	536.0	409.0	-405.0
+353.86		191	validation-stimulus	960.0	536.0	0.0	0.0
+354.797		192	validation-stimulus	960.0	536.0	-409.0	-405.0
+355.726		193	validation-stimulus	960.0	536.0	-409.0	405.0
+356.68		194	validation-stimulus	960.0	536.0	409.0	405.0
+358.728		195	fixation-stimulus	960.0	536.0	0.0	0.0
+359.648		196	validation-stimulus	960.0	536.0	0.0	0.0
+360.593		197	validation-stimulus	960.0	536.0	-409.0	405.0
+361.51		198	validation-stimulus	960.0	536.0	-409.0	-405.0
+362.456		199	validation-stimulus	960.0	536.0	-409.0	0.0
+363.413		200	validation-stimulus	960.0	536.0	0.0	405.0
+364.344		201	validation-stimulus	960.0	536.0	409.0	-405.0
+365.266		202	validation-stimulus	960.0	536.0	0.0	-405.0
+366.219		203	validation-stimulus	960.0	536.0	409.0	0.0
+367.164		204	validation-stimulus	960.0	536.0	409.0	405.0
+373.585	6.41	205					
+375.142	0.933	206		960.0	536.0		
+376.706	0.997	207		960.0	536.0		
+377.956	0.678	208		960.0	536.0		
+379.338	0.794	209		960.0	536.0		
+380.645	0.736	210		960.0	536.0		
+381.871	0.66	211		960.0	536.0		
+383.135	0.701	212		960.0	536.0		
+384.458	0.744	213		960.0	536.0		
+385.645	0.602	214		960.0	536.0		
+386.836	0.609	215		960.0	536.0		
+388.024	0.622	216		960.0	536.0		
+389.197	0.602	217		960.0	536.0		
+390.407	0.642	218		960.0	536.0		
+391.731	0.762	219		960.0	536.0		
+392.915	0.601	220		960.0	536.0		
+394.194	0.697	221		960.0	536.0		
+395.545	0.766	222		960.0	536.0		
+396.727	0.612	223		960.0	536.0		
+399.276	2.494	224					
+401.291		225	fixation-stimulus	960.0	536.0	0.0	0.0
+402.21		226	validation-stimulus	960.0	536.0	-409.0	405.0
+403.152		227	validation-stimulus	960.0	536.0	0.0	-405.0
+404.092		228	validation-stimulus	960.0	536.0	-409.0	0.0
+405.035		229	validation-stimulus	960.0	536.0	409.0	0.0
+405.957		230	validation-stimulus	960.0	536.0	-409.0	-405.0
+406.902		231	validation-stimulus	960.0	536.0	0.0	0.0
+407.831		232	validation-stimulus	960.0	536.0	0.0	405.0
+408.763		233	validation-stimulus	960.0	536.0	409.0	-405.0
+409.69		234	validation-stimulus	960.0	536.0	409.0	405.0
+411.723		235	fixation-stimulus	960.0	536.0	0.0	0.0
+412.677		236	validation-stimulus	960.0	536.0	0.0	-405.0
+413.62		237	validation-stimulus	960.0	536.0	-409.0	0.0
+414.562		238	validation-stimulus	960.0	536.0	0.0	0.0
+415.513		239	validation-stimulus	960.0	536.0	0.0	405.0
+416.446		240	validation-stimulus	960.0	536.0	409.0	-405.0
+417.402		241	validation-stimulus	960.0	536.0	-409.0	405.0
+418.329		242	validation-stimulus	960.0	536.0	-409.0	-405.0
+419.27		243	validation-stimulus	960.0	536.0	409.0	0.0
+420.214		244	validation-stimulus	960.0	536.0	409.0	405.0
+422.264		245	fixation-stimulus	960.0	536.0	0.0	0.0
+423.194		246	validation-stimulus	960.0	536.0	409.0	0.0
+424.113		247	validation-stimulus	960.0	536.0	0.0	405.0
+425.058		248	validation-stimulus	960.0	536.0	409.0	405.0
+425.989		249	validation-stimulus	960.0	536.0	0.0	0.0
+426.942		250	validation-stimulus	960.0	536.0	0.0	-405.0
+427.865		251	validation-stimulus	960.0	536.0	409.0	-405.0
+428.807		252	validation-stimulus	960.0	536.0	-409.0	405.0
+429.735		253	validation-stimulus	960.0	536.0	-409.0	-405.0
+430.695		254	validation-stimulus	960.0	536.0	-409.0	0.0
+432.749		255	fixation-stimulus	960.0	536.0	0.0	0.0
+433.669		256	validation-stimulus	960.0	536.0	-409.0	-405.0
+434.625		257	validation-stimulus	960.0	536.0	-409.0	405.0
+435.551		258	validation-stimulus	960.0	536.0	409.0	405.0
+436.502		259	validation-stimulus	960.0	536.0	0.0	0.0
+437.452		260	validation-stimulus	960.0	536.0	0.0	-405.0
+438.406		261	validation-stimulus	960.0	536.0	409.0	0.0
+439.349		262	validation-stimulus	960.0	536.0	0.0	405.0
+440.283		263	validation-stimulus	960.0	536.0	-409.0	0.0
+441.238		264	validation-stimulus	960.0	536.0	409.0	-405.0
+443.306		265	fixation-stimulus	960.0	536.0	0.0	0.0
+444.254		266	validation-stimulus	960.0	536.0	409.0	-405.0
+445.206		267	validation-stimulus	960.0	536.0	0.0	-405.0
+446.134		268	validation-stimulus	960.0	536.0	-409.0	405.0
+447.083		269	validation-stimulus	960.0	536.0	0.0	0.0
+448.01		270	validation-stimulus	960.0	536.0	409.0	405.0
+448.972		271	validation-stimulus	960.0	536.0	0.0	405.0
+449.913		272	validation-stimulus	960.0	536.0	-409.0	0.0
+450.844		273	validation-stimulus	960.0	536.0	409.0	0.0
+451.783		274	validation-stimulus	960.0	536.0	-409.0	-405.0
+453.839		275	fixation-stimulus	960.0	536.0	0.0	0.0
+454.781		276	validation-stimulus	960.0	536.0	-409.0	0.0
+455.712		277	validation-stimulus	960.0	536.0	0.0	-405.0
+456.637		278	validation-stimulus	960.0	536.0	409.0	0.0
+457.582		279	validation-stimulus	960.0	536.0	409.0	405.0
+458.515		280	validation-stimulus	960.0	536.0	-409.0	405.0
+459.456		281	validation-stimulus	960.0	536.0	0.0	0.0
+460.409		282	validation-stimulus	960.0	536.0	-409.0	-405.0
+461.356		283	validation-stimulus	960.0	536.0	409.0	-405.0
+462.276		284	validation-stimulus	960.0	536.0	0.0	405.0
+464.322		285	fixation-stimulus	960.0	536.0	0.0	0.0
+465.245		286	validation-stimulus	960.0	536.0	-409.0	-405.0
+466.177		287	validation-stimulus	960.0	536.0	409.0	0.0
+467.132		288	validation-stimulus	960.0	536.0	0.0	-405.0
+468.063		289	validation-stimulus	960.0	536.0	-409.0	0.0
+469.013		290	validation-stimulus	960.0	536.0	0.0	405.0
+469.944		291	validation-stimulus	960.0	536.0	409.0	405.0
+470.883		292	validation-stimulus	960.0	536.0	409.0	-405.0
+471.814		293	validation-stimulus	960.0	536.0	0.0	0.0
+472.745		294	validation-stimulus	960.0	536.0	-409.0	405.0
+474.787		295	fixation-stimulus	960.0	536.0	0.0	0.0
+475.711		296	validation-stimulus	960.0	536.0	-409.0	-405.0
+476.675		297	validation-stimulus	960.0	536.0	-409.0	405.0
+477.599		298	validation-stimulus	960.0	536.0	409.0	0.0
+478.549		299	validation-stimulus	960.0	536.0	409.0	405.0
+479.476		300	validation-stimulus	960.0	536.0	0.0	405.0
+480.428		301	validation-stimulus	960.0	536.0	-409.0	0.0
+481.367		302	validation-stimulus	960.0	536.0	409.0	-405.0
+482.317		303	validation-stimulus	960.0	536.0	0.0	-405.0
+483.25		304	validation-stimulus	960.0	536.0	0.0	0.0
+496.335	13.068	305					
+501.724	4.779	306		960.0	536.0		
+502.809	0.498	307		960.0	536.0		
+503.881	0.5	308		960.0	536.0		
+504.913	0.464	309		960.0	536.0		
+506.011	0.531	310		960.0	536.0		
+506.994	0.413	311		960.0	536.0		
+508.193	0.628	312		960.0	536.0		
+509.192	0.428	313		960.0	536.0		
+510.175	0.393	314		960.0	536.0		
+511.348	0.602	315		960.0	536.0		
+512.537	0.601	316		960.0	536.0		
+513.925	0.82	317		960.0	536.0		
+515.316	0.815	318		960.0	536.0		
+516.546	0.662	319		960.0	536.0		
+517.916	0.798	320		960.0	536.0		
+519.95	1.466	321		960.0	536.0		
+521.245	0.726	322		960.0	536.0		
+522.799	0.964	323		960.0	536.0		
+528.563	5.706	324					
+530.601		325	fixation-stimulus	960.0	536.0	0.0	0.0
+531.542		326	validation-stimulus	960.0	536.0	409.0	405.0
+532.492		327	validation-stimulus	960.0	536.0	-409.0	0.0
+533.415		328	validation-stimulus	960.0	536.0	0.0	-405.0
+534.365		329	validation-stimulus	960.0	536.0	409.0	0.0
+535.297		330	validation-stimulus	960.0	536.0	0.0	0.0
+536.227		331	validation-stimulus	960.0	536.0	0.0	405.0
+537.183		332	validation-stimulus	960.0	536.0	-409.0	405.0
+538.117		333	validation-stimulus	960.0	536.0	-409.0	-405.0
+539.048		334	validation-stimulus	960.0	536.0	409.0	-405.0
+541.12		335	fixation-stimulus	960.0	536.0	0.0	0.0
+542.049		336	validation-stimulus	960.0	536.0	-409.0	-405.0
+543.0		337	validation-stimulus	960.0	536.0	409.0	405.0
+543.927		338	validation-stimulus	960.0	536.0	-409.0	405.0
+544.85		339	validation-stimulus	960.0	536.0	-409.0	0.0
+545.796		340	validation-stimulus	960.0	536.0	0.0	405.0
+546.75		341	validation-stimulus	960.0	536.0	0.0	0.0
+547.705		342	validation-stimulus	960.0	536.0	0.0	-405.0
+548.636		343	validation-stimulus	960.0	536.0	409.0	-405.0
+549.568		344	validation-stimulus	960.0	536.0	409.0	0.0
+551.617		345	fixation-stimulus	960.0	536.0	0.0	0.0
+552.547		346	validation-stimulus	960.0	536.0	0.0	-405.0
+553.511		347	validation-stimulus	960.0	536.0	-409.0	0.0
+554.465		348	validation-stimulus	960.0	536.0	409.0	-405.0
+555.423		349	validation-stimulus	960.0	536.0	0.0	405.0
+556.358		350	validation-stimulus	960.0	536.0	409.0	0.0
+557.285		351	validation-stimulus	960.0	536.0	0.0	0.0
+558.232		352	validation-stimulus	960.0	536.0	-409.0	405.0
+559.163		353	validation-stimulus	960.0	536.0	-409.0	-405.0
+560.115		354	validation-stimulus	960.0	536.0	409.0	405.0
+562.158		355	fixation-stimulus	960.0	536.0	0.0	0.0
+563.085		356	validation-stimulus	960.0	536.0	409.0	405.0
+564.043		357	validation-stimulus	960.0	536.0	0.0	-405.0
+564.972		358	validation-stimulus	960.0	536.0	-409.0	0.0
+565.917		359	validation-stimulus	960.0	536.0	409.0	-405.0
+566.841		360	validation-stimulus	960.0	536.0	0.0	405.0
+567.775		361	validation-stimulus	960.0	536.0	-409.0	-405.0
+568.709		362	validation-stimulus	960.0	536.0	-409.0	405.0
+569.643		363	validation-stimulus	960.0	536.0	409.0	0.0
+570.597		364	validation-stimulus	960.0	536.0	0.0	0.0
+572.66		365	fixation-stimulus	960.0	536.0	0.0	0.0
+573.591		366	validation-stimulus	960.0	536.0	-409.0	0.0
+574.533		367	validation-stimulus	960.0	536.0	0.0	-405.0
+575.487		368	validation-stimulus	960.0	536.0	409.0	405.0
+576.442		369	validation-stimulus	960.0	536.0	-409.0	405.0
+577.39		370	validation-stimulus	960.0	536.0	409.0	0.0
+578.322		371	validation-stimulus	960.0	536.0	-409.0	-405.0
+579.282		372	validation-stimulus	960.0	536.0	409.0	-405.0
+580.212		373	validation-stimulus	960.0	536.0	0.0	405.0
+581.142		374	validation-stimulus	960.0	536.0	0.0	0.0
+583.199		375	fixation-stimulus	960.0	536.0	0.0	0.0
+584.13		376	validation-stimulus	960.0	536.0	0.0	0.0
+585.085		377	validation-stimulus	960.0	536.0	0.0	-405.0
+586.009		378	validation-stimulus	960.0	536.0	-409.0	405.0
+586.964		379	validation-stimulus	960.0	536.0	409.0	0.0
+587.91		380	validation-stimulus	960.0	536.0	409.0	405.0
+588.864		381	validation-stimulus	960.0	536.0	0.0	405.0
+589.794		382	validation-stimulus	960.0	536.0	409.0	-405.0
+590.726		383	validation-stimulus	960.0	536.0	-409.0	0.0
+591.663		384	validation-stimulus	960.0	536.0	-409.0	-405.0
+593.709		385	fixation-stimulus	960.0	536.0	0.0	0.0
+594.679		386	validation-stimulus	960.0	536.0	-409.0	0.0
+595.645		387	validation-stimulus	960.0	536.0	-409.0	-405.0
+596.611		388	validation-stimulus	960.0	536.0	0.0	0.0
+597.546		389	validation-stimulus	960.0	536.0	409.0	-405.0
+598.484		390	validation-stimulus	960.0	536.0	0.0	-405.0
+599.439		391	validation-stimulus	960.0	536.0	409.0	0.0
+600.396		392	validation-stimulus	960.0	536.0	409.0	405.0
+601.352		393	validation-stimulus	960.0	536.0	0.0	405.0
+602.296		394	validation-stimulus	960.0	536.0	-409.0	405.0
+604.342		395	fixation-stimulus	960.0	536.0	0.0	0.0
+605.304		396	validation-stimulus	960.0	536.0	0.0	-405.0
+606.232		397	validation-stimulus	960.0	536.0	-409.0	0.0
+607.165		398	validation-stimulus	960.0	536.0	-409.0	405.0
+608.116		399	validation-stimulus	960.0	536.0	409.0	-405.0
+609.064		400	validation-stimulus	960.0	536.0	-409.0	-405.0
+610.005		401	validation-stimulus	960.0	536.0	409.0	405.0
+610.936		402	validation-stimulus	960.0	536.0	409.0	0.0
+611.867		403	validation-stimulus	960.0	536.0	0.0	0.0
+612.833		404	validation-stimulus	960.0	536.0	0.0	405.0
+621.012	8.158	405					
+622.629	0.996	406		960.0	536.0		
+623.761	0.56	407		960.0	536.0		
+624.935	0.597	408		960.0	536.0		
+626.076	0.55	409		960.0	536.0		
+627.193	0.528	410		960.0	536.0		
+628.296	0.53	411		960.0	536.0		
+629.464	0.598	412		960.0	536.0		
+630.648	0.598	413		960.0	536.0		
+631.795	0.542	414		960.0	536.0		
+633.032	0.663	415		960.0	536.0		
+634.131	0.514	416		960.0	536.0		
+635.303	0.6	417		960.0	536.0		
+636.564	0.663	418		960.0	536.0		
+637.812	0.657	419		960.0	536.0		
+639.67	1.284	420		960.0	536.0		
+641.283	1.03	421		960.0	536.0		
+642.951	1.083	422		960.0	536.0		
+644.401	0.863	423		960.0	536.0		
+649.017	4.553	424					
+651.084		425	fixation-stimulus	960.0	536.0	0.0	0.0
+652.027		426	validation-stimulus	960.0	536.0	-409.0	405.0
+652.984		427	validation-stimulus	960.0	536.0	-409.0	0.0
+653.912		428	validation-stimulus	960.0	536.0	409.0	-405.0
+654.863		429	validation-stimulus	960.0	536.0	0.0	405.0
+655.818		430	validation-stimulus	960.0	536.0	409.0	405.0
+656.782		431	validation-stimulus	960.0	536.0	-409.0	-405.0
+657.735		432	validation-stimulus	960.0	536.0	0.0	0.0
+658.685		433	validation-stimulus	960.0	536.0	409.0	0.0
+659.631		434	validation-stimulus	960.0	536.0	0.0	-405.0
+661.697		435	fixation-stimulus	960.0	536.0	0.0	0.0
+662.636		436	validation-stimulus	960.0	536.0	0.0	405.0
+663.566		437	validation-stimulus	960.0	536.0	409.0	0.0
+664.506		438	validation-stimulus	960.0	536.0	409.0	-405.0
+665.448		439	validation-stimulus	960.0	536.0	0.0	-405.0
+666.398		440	validation-stimulus	960.0	536.0	-409.0	-405.0
+667.353		441	validation-stimulus	960.0	536.0	-409.0	405.0
+668.291		442	validation-stimulus	960.0	536.0	0.0	0.0
+669.244		443	validation-stimulus	960.0	536.0	409.0	405.0
+670.193		444	validation-stimulus	960.0	536.0	-409.0	0.0
+672.259		445	fixation-stimulus	960.0	536.0	0.0	0.0
+673.185		446	validation-stimulus	960.0	536.0	0.0	0.0
+674.145		447	validation-stimulus	960.0	536.0	-409.0	0.0
+675.086		448	validation-stimulus	960.0	536.0	409.0	405.0
+676.021		449	validation-stimulus	960.0	536.0	409.0	-405.0
+676.952		450	validation-stimulus	960.0	536.0	0.0	-405.0
+677.919		451	validation-stimulus	960.0	536.0	0.0	405.0
+678.887		452	validation-stimulus	960.0	536.0	409.0	0.0
+679.842		453	validation-stimulus	960.0	536.0	-409.0	405.0
+680.773		454	validation-stimulus	960.0	536.0	-409.0	-405.0
+682.809		455	fixation-stimulus	960.0	536.0	0.0	0.0
+683.739		456	validation-stimulus	960.0	536.0	409.0	405.0
+684.676		457	validation-stimulus	960.0	536.0	0.0	405.0
+685.61		458	validation-stimulus	960.0	536.0	0.0	0.0
+686.56		459	validation-stimulus	960.0	536.0	409.0	-405.0
+687.492		460	validation-stimulus	960.0	536.0	-409.0	0.0
+688.438		461	validation-stimulus	960.0	536.0	-409.0	405.0
+689.405		462	validation-stimulus	960.0	536.0	409.0	0.0
+690.362		463	validation-stimulus	960.0	536.0	0.0	-405.0
+691.295		464	validation-stimulus	960.0	536.0	-409.0	-405.0
+693.361		465	fixation-stimulus	960.0	536.0	0.0	0.0
+694.313		466	validation-stimulus	960.0	536.0	-409.0	0.0
+695.27		467	validation-stimulus	960.0	536.0	0.0	405.0
+696.219		468	validation-stimulus	960.0	536.0	-409.0	405.0
+697.188		469	validation-stimulus	960.0	536.0	0.0	0.0
+698.135		470	validation-stimulus	960.0	536.0	0.0	-405.0
+699.067		471	validation-stimulus	960.0	536.0	409.0	0.0
+700.031		472	validation-stimulus	960.0	536.0	409.0	-405.0
+700.976		473	validation-stimulus	960.0	536.0	409.0	405.0
+701.93		474	validation-stimulus	960.0	536.0	-409.0	-405.0
+703.988		475	fixation-stimulus	960.0	536.0	0.0	0.0
+704.946		476	validation-stimulus	960.0	536.0	409.0	405.0
+705.895		477	validation-stimulus	960.0	536.0	409.0	0.0
+706.833		478	validation-stimulus	960.0	536.0	-409.0	0.0
+707.762		479	validation-stimulus	960.0	536.0	409.0	-405.0
+708.7		480	validation-stimulus	960.0	536.0	-409.0	-405.0
+709.645		481	validation-stimulus	960.0	536.0	0.0	-405.0
+710.581		482	validation-stimulus	960.0	536.0	0.0	0.0
+711.53		483	validation-stimulus	960.0	536.0	-409.0	405.0
+712.489		484	validation-stimulus	960.0	536.0	0.0	405.0
+714.515		485	fixation-stimulus	960.0	536.0	0.0	0.0
+715.484		486	validation-stimulus	960.0	536.0	-409.0	405.0
+716.434		487	validation-stimulus	960.0	536.0	0.0	405.0
+717.384		488	validation-stimulus	960.0	536.0	409.0	405.0
+718.322		489	validation-stimulus	960.0	536.0	409.0	0.0
+719.268		490	validation-stimulus	960.0	536.0	409.0	-405.0
+720.198		491	validation-stimulus	960.0	536.0	-409.0	0.0
+721.137		492	validation-stimulus	960.0	536.0	0.0	-405.0
+722.082		493	validation-stimulus	960.0	536.0	-409.0	-405.0
+723.046		494	validation-stimulus	960.0	536.0	0.0	0.0
+725.104		495	fixation-stimulus	960.0	536.0	0.0	0.0
+726.051		496	validation-stimulus	960.0	536.0	409.0	0.0
+726.999		497	validation-stimulus	960.0	536.0	-409.0	405.0
+727.943		498	validation-stimulus	960.0	536.0	0.0	-405.0
+728.883		499	validation-stimulus	960.0	536.0	-409.0	0.0
+729.825		500	validation-stimulus	960.0	536.0	409.0	-405.0
+730.757		501	validation-stimulus	960.0	536.0	0.0	0.0
+731.721		502	validation-stimulus	960.0	536.0	-409.0	-405.0
+732.669		503	validation-stimulus	960.0	536.0	0.0	405.0
+733.607		504	validation-stimulus	960.0	536.0	409.0	405.0
+740.367	6.735	505					
+742.013	1.029	506		960.0	536.0		
+743.181	0.569	507		960.0	536.0		
+744.311	0.544	508		960.0	536.0		
+745.413	0.524	509		960.0	536.0		
+746.573	0.567	510		960.0	536.0		
+747.669	0.501	511		960.0	536.0		
+748.867	0.615	512		960.0	536.0		
+749.962	0.521	513		960.0	536.0		
+751.068	0.53	514		960.0	536.0		
+752.319	0.678	515		960.0	536.0		
+753.671	0.769	516		960.0	536.0		
+755.119	0.865	517		960.0	536.0		
+756.363	0.656	518		960.0	536.0		
+762.016	5.051	519		960.0	536.0		
+763.283	0.695	520		960.0	536.0		
+764.428	0.571	521		960.0	536.0		
+765.769	0.762	522		960.0	536.0		
+767.06	0.714	523		960.0	536.0		
+769.934	2.806	524					
+771.985		525	fixation-stimulus	960.0	536.0	0.0	0.0
+772.94		526	validation-stimulus	960.0	536.0	409.0	-405.0
+773.901		527	validation-stimulus	960.0	536.0	0.0	-405.0
+774.832		528	validation-stimulus	960.0	536.0	-409.0	-405.0
+775.767		529	validation-stimulus	960.0	536.0	0.0	0.0
+776.718		530	validation-stimulus	960.0	536.0	-409.0	0.0
+777.694		531	validation-stimulus	960.0	536.0	0.0	405.0
+778.635		532	validation-stimulus	960.0	536.0	409.0	0.0
+779.598		533	validation-stimulus	960.0	536.0	-409.0	405.0
+780.543		534	validation-stimulus	960.0	536.0	409.0	405.0
+782.605		535	fixation-stimulus	960.0	536.0	0.0	0.0
+783.539		536	validation-stimulus	960.0	536.0	409.0	405.0
+784.484		537	validation-stimulus	960.0	536.0	-409.0	405.0
+785.439		538	validation-stimulus	960.0	536.0	0.0	0.0
+786.373		539	validation-stimulus	960.0	536.0	0.0	-405.0
+787.304		540	validation-stimulus	960.0	536.0	-409.0	0.0
+788.27		541	validation-stimulus	960.0	536.0	409.0	0.0
+789.238		542	validation-stimulus	960.0	536.0	409.0	-405.0
+790.193		543	validation-stimulus	960.0	536.0	-409.0	-405.0
+791.156		544	validation-stimulus	960.0	536.0	0.0	405.0
+793.209		545	fixation-stimulus	960.0	536.0	0.0	0.0
+794.159		546	validation-stimulus	960.0	536.0	0.0	405.0
+795.122		547	validation-stimulus	960.0	536.0	409.0	405.0
+796.055		548	validation-stimulus	960.0	536.0	0.0	0.0
+797.007		549	validation-stimulus	960.0	536.0	-409.0	-405.0
+797.953		550	validation-stimulus	960.0	536.0	-409.0	405.0
+798.895		551	validation-stimulus	960.0	536.0	409.0	-405.0
+799.853		552	validation-stimulus	960.0	536.0	0.0	-405.0
+800.793		553	validation-stimulus	960.0	536.0	409.0	0.0
+801.727		554	validation-stimulus	960.0	536.0	-409.0	0.0
+803.789		555	fixation-stimulus	960.0	536.0	0.0	0.0
+804.743		556	validation-stimulus	960.0	536.0	0.0	-405.0
+805.681		557	validation-stimulus	960.0	536.0	-409.0	0.0
+806.635		558	validation-stimulus	960.0	536.0	0.0	0.0
+807.586		559	validation-stimulus	960.0	536.0	409.0	0.0
+808.547		560	validation-stimulus	960.0	536.0	409.0	405.0
+809.51		561	validation-stimulus	960.0	536.0	409.0	-405.0
+810.446		562	validation-stimulus	960.0	536.0	0.0	405.0
+811.414		563	validation-stimulus	960.0	536.0	-409.0	405.0
+812.348		564	validation-stimulus	960.0	536.0	-409.0	-405.0
+814.388		565	fixation-stimulus	960.0	536.0	0.0	0.0
+815.324		566	validation-stimulus	960.0	536.0	409.0	405.0
+816.292		567	validation-stimulus	960.0	536.0	409.0	-405.0
+817.235		568	validation-stimulus	960.0	536.0	409.0	0.0
+818.188		569	validation-stimulus	960.0	536.0	0.0	405.0
+819.154		570	validation-stimulus	960.0	536.0	-409.0	0.0
+820.11		571	validation-stimulus	960.0	536.0	0.0	-405.0
+821.064		572	validation-stimulus	960.0	536.0	-409.0	405.0
+822.0		573	validation-stimulus	960.0	536.0	-409.0	-405.0
+822.969		574	validation-stimulus	960.0	536.0	0.0	0.0
+825.021		575	fixation-stimulus	960.0	536.0	0.0	0.0
+825.973		576	validation-stimulus	960.0	536.0	-409.0	0.0
+826.93		577	validation-stimulus	960.0	536.0	0.0	405.0
+827.901		578	validation-stimulus	960.0	536.0	0.0	-405.0
+828.863		579	validation-stimulus	960.0	536.0	-409.0	-405.0
+829.802		580	validation-stimulus	960.0	536.0	409.0	405.0
+830.769		581	validation-stimulus	960.0	536.0	0.0	0.0
+831.728		582	validation-stimulus	960.0	536.0	409.0	0.0
+832.693		583	validation-stimulus	960.0	536.0	409.0	-405.0
+833.655		584	validation-stimulus	960.0	536.0	-409.0	405.0
+835.684		585	fixation-stimulus	960.0	536.0	0.0	0.0
+836.621		586	validation-stimulus	960.0	536.0	409.0	405.0
+837.579		587	validation-stimulus	960.0	536.0	-409.0	0.0
+838.537		588	validation-stimulus	960.0	536.0	409.0	0.0
+839.491		589	validation-stimulus	960.0	536.0	409.0	-405.0
+840.455		590	validation-stimulus	960.0	536.0	0.0	405.0
+841.422		591	validation-stimulus	960.0	536.0	0.0	-405.0
+842.389		592	validation-stimulus	960.0	536.0	-409.0	-405.0
+843.341		593	validation-stimulus	960.0	536.0	-409.0	405.0
+844.273		594	validation-stimulus	960.0	536.0	0.0	0.0
+846.325		595	fixation-stimulus	960.0	536.0	0.0	0.0
+847.277		596	validation-stimulus	960.0	536.0	0.0	405.0
+848.253		597	validation-stimulus	960.0	536.0	-409.0	405.0
+849.196		598	validation-stimulus	960.0	536.0	0.0	-405.0
+850.154		599	validation-stimulus	960.0	536.0	-409.0	0.0
+851.105		600	validation-stimulus	960.0	536.0	409.0	-405.0
+852.062		601	validation-stimulus	960.0	536.0	-409.0	-405.0
+853.028		602	validation-stimulus	960.0	536.0	0.0	0.0
+853.979		603	validation-stimulus	960.0	536.0	409.0	0.0
+854.924		604	validation-stimulus	960.0	536.0	409.0	405.0
+862.633	7.68	605					
+864.246	0.989	606		960.0	536.0		
+865.442	0.606	607		960.0	536.0		
+866.581	0.555	608		960.0	536.0		
+867.784	0.624	609		960.0	536.0		
+868.906	0.536	610		960.0	536.0		
+870.083	0.595	611		960.0	536.0		
+871.181	0.521	612		960.0	536.0		
+872.249	0.488	613		960.0	536.0		
+873.331	0.493	614		960.0	536.0		
+874.387	0.455	615		960.0	536.0		
+875.516	0.528	616		960.0	536.0		
+876.603	0.497	617		960.0	536.0		
+877.649	0.46	618		960.0	536.0		
+878.718	0.467	619		960.0	536.0		
+879.87	0.566	620		960.0	536.0		
+881.116	0.649	621		960.0	536.0		
+882.553	0.855	622		960.0	536.0		
+883.746	0.595	623		960.0	536.0		
+887.314	3.494	624					
+889.391		625	fixation-stimulus	960.0	536.0	0.0	0.0
+890.34		626	validation-stimulus	960.0	536.0	-409.0	0.0
+891.295		627	validation-stimulus	960.0	536.0	409.0	-405.0
+892.237		628	validation-stimulus	960.0	536.0	0.0	0.0
+893.218		629	validation-stimulus	960.0	536.0	0.0	405.0
+894.15		630	validation-stimulus	960.0	536.0	-409.0	-405.0
+895.115		631	validation-stimulus	960.0	536.0	409.0	405.0
+896.071		632	validation-stimulus	960.0	536.0	409.0	0.0
+897.033		633	validation-stimulus	960.0	536.0	0.0	-405.0
+897.997		634	validation-stimulus	960.0	536.0	-409.0	405.0
+900.069		635	fixation-stimulus	960.0	536.0	0.0	0.0
+901.032		636	validation-stimulus	960.0	536.0	0.0	-405.0
+901.968		637	validation-stimulus	960.0	536.0	-409.0	-405.0
+902.931		638	validation-stimulus	960.0	536.0	0.0	405.0
+903.874		639	validation-stimulus	960.0	536.0	-409.0	0.0
+904.821		640	validation-stimulus	960.0	536.0	-409.0	405.0
+905.789		641	validation-stimulus	960.0	536.0	409.0	405.0
+906.739		642	validation-stimulus	960.0	536.0	409.0	-405.0
+907.686		643	validation-stimulus	960.0	536.0	0.0	0.0
+908.652		644	validation-stimulus	960.0	536.0	409.0	0.0
+910.707		645	fixation-stimulus	960.0	536.0	0.0	0.0
+911.643		646	validation-stimulus	960.0	536.0	409.0	0.0
+912.6		647	validation-stimulus	960.0	536.0	409.0	405.0
+913.543		648	validation-stimulus	960.0	536.0	-409.0	405.0
+914.493		649	validation-stimulus	960.0	536.0	-409.0	-405.0
+915.458		650	validation-stimulus	960.0	536.0	-409.0	0.0
+916.395		651	validation-stimulus	960.0	536.0	0.0	405.0
+917.364		652	validation-stimulus	960.0	536.0	0.0	-405.0
+918.319		653	validation-stimulus	960.0	536.0	409.0	-405.0
+919.266		654	validation-stimulus	960.0	536.0	0.0	0.0
+921.328		655	fixation-stimulus	960.0	536.0	0.0	0.0
+922.279		656	validation-stimulus	960.0	536.0	409.0	405.0
+923.224		657	validation-stimulus	960.0	536.0	409.0	-405.0
+924.172		658	validation-stimulus	960.0	536.0	-409.0	405.0
+925.145		659	validation-stimulus	960.0	536.0	0.0	-405.0
+926.118		660	validation-stimulus	960.0	536.0	-409.0	0.0
+927.079		661	validation-stimulus	960.0	536.0	-409.0	-405.0
+928.047		662	validation-stimulus	960.0	536.0	409.0	0.0
+928.991		663	validation-stimulus	960.0	536.0	0.0	405.0
+929.962		664	validation-stimulus	960.0	536.0	0.0	0.0
+932.026		665	fixation-stimulus	960.0	536.0	0.0	0.0
+932.977		666	validation-stimulus	960.0	536.0	-409.0	0.0
+933.943		667	validation-stimulus	960.0	536.0	-409.0	-405.0
+934.894		668	validation-stimulus	960.0	536.0	-409.0	405.0
+935.864		669	validation-stimulus	960.0	536.0	409.0	-405.0
+936.832		670	validation-stimulus	960.0	536.0	409.0	0.0
+937.811		671	validation-stimulus	960.0	536.0	0.0	405.0
+938.778		672	validation-stimulus	960.0	536.0	409.0	405.0
+939.717		673	validation-stimulus	960.0	536.0	0.0	0.0
+940.684		674	validation-stimulus	960.0	536.0	0.0	-405.0
+942.76		675	fixation-stimulus	960.0	536.0	0.0	0.0
+943.729		676	validation-stimulus	960.0	536.0	409.0	-405.0
+944.7		677	validation-stimulus	960.0	536.0	0.0	405.0
+945.664		678	validation-stimulus	960.0	536.0	409.0	0.0
+946.597		679	validation-stimulus	960.0	536.0	0.0	-405.0
+947.537		680	validation-stimulus	960.0	536.0	0.0	0.0
+948.511		681	validation-stimulus	960.0	536.0	-409.0	-405.0
+949.464		682	validation-stimulus	960.0	536.0	-409.0	0.0
+950.423		683	validation-stimulus	960.0	536.0	409.0	405.0
+951.389		684	validation-stimulus	960.0	536.0	-409.0	405.0
+953.458		685	fixation-stimulus	960.0	536.0	0.0	0.0
+954.408		686	validation-stimulus	960.0	536.0	0.0	0.0
+955.35		687	validation-stimulus	960.0	536.0	409.0	0.0
+956.312		688	validation-stimulus	960.0	536.0	409.0	405.0
+957.256		689	validation-stimulus	960.0	536.0	0.0	405.0
+958.226		690	validation-stimulus	960.0	536.0	-409.0	-405.0
+959.194		691	validation-stimulus	960.0	536.0	409.0	-405.0
+960.158		692	validation-stimulus	960.0	536.0	-409.0	0.0
+961.124		693	validation-stimulus	960.0	536.0	0.0	-405.0
+962.07		694	validation-stimulus	960.0	536.0	-409.0	405.0
+964.14		695	fixation-stimulus	960.0	536.0	0.0	0.0
+965.112		696	validation-stimulus	960.0	536.0	409.0	0.0
+966.056		697	validation-stimulus	960.0	536.0	0.0	405.0
+967.009		698	validation-stimulus	960.0	536.0	-409.0	0.0
+967.964		699	validation-stimulus	960.0	536.0	409.0	405.0
+968.909		700	validation-stimulus	960.0	536.0	0.0	-405.0
+969.855		701	validation-stimulus	960.0	536.0	-409.0	405.0
+970.83		702	validation-stimulus	960.0	536.0	-409.0	-405.0
+971.797		703	validation-stimulus	960.0	536.0	0.0	0.0
+972.742		704	validation-stimulus	960.0	536.0	409.0	-405.0
+974.801	2.024	705					
+976.488	1.054	706		960.0	536.0		
+977.732	0.648	707		960.0	536.0		
+978.872	0.538	708		960.0	536.0		
+980.032	0.564	709		960.0	536.0		
+981.149	0.529	710		960.0	536.0		
+982.256	0.503	711		960.0	536.0		
+983.499	0.66	712		960.0	536.0		
+984.666	0.562	713		960.0	536.0		
+985.831	0.56	714		960.0	536.0		
+987.052	0.63	715		960.0	536.0		
+988.288	0.634	716		960.0	536.0		
+989.736	0.866	717		960.0	536.0		
+992.16	1.837	718		960.0	536.0		
+993.49	0.734	719		960.0	536.0		
+995.111	1.007	720		960.0	536.0		
+997.127	1.422	721		960.0	536.0		
+998.786	1.061	722		960.0	536.0		
+1000.202	0.826	723		960.0	536.0		
+1002.691	2.414	724					
+1004.769		725	fixation-stimulus	960.0	536.0	0.0	0.0
+1005.716		726	validation-stimulus	960.0	536.0	0.0	-405.0
+1006.662		727	validation-stimulus	960.0	536.0	409.0	0.0
+1007.623		728	validation-stimulus	960.0	536.0	409.0	405.0
+1008.568		729	validation-stimulus	960.0	536.0	0.0	405.0
+1009.526		730	validation-stimulus	960.0	536.0	-409.0	0.0
+1010.472		731	validation-stimulus	960.0	536.0	-409.0	-405.0
+1011.442		732	validation-stimulus	960.0	536.0	409.0	-405.0
+1012.385		733	validation-stimulus	960.0	536.0	0.0	0.0
+1013.354		734	validation-stimulus	960.0	536.0	-409.0	405.0
+1015.408		735	fixation-stimulus	960.0	536.0	0.0	0.0
+1016.356		736	validation-stimulus	960.0	536.0	-409.0	-405.0
+1017.317		737	validation-stimulus	960.0	536.0	-409.0	405.0
+1018.27		738	validation-stimulus	960.0	536.0	0.0	0.0
+1019.244		739	validation-stimulus	960.0	536.0	409.0	-405.0
+1020.209		740	validation-stimulus	960.0	536.0	0.0	-405.0
+1021.158		741	validation-stimulus	960.0	536.0	-409.0	0.0
+1022.111		742	validation-stimulus	960.0	536.0	0.0	405.0
+1023.058		743	validation-stimulus	960.0	536.0	409.0	405.0
+1024.006		744	validation-stimulus	960.0	536.0	409.0	0.0
+1026.071		745	fixation-stimulus	960.0	536.0	0.0	0.0
+1027.036		746	validation-stimulus	960.0	536.0	-409.0	0.0
+1028.005		747	validation-stimulus	960.0	536.0	0.0	0.0
+1028.963		748	validation-stimulus	960.0	536.0	409.0	-405.0
+1029.913		749	validation-stimulus	960.0	536.0	0.0	-405.0
+1030.856		750	validation-stimulus	960.0	536.0	409.0	405.0
+1031.822		751	validation-stimulus	960.0	536.0	-409.0	-405.0
+1032.79		752	validation-stimulus	960.0	536.0	-409.0	405.0
+1033.762		753	validation-stimulus	960.0	536.0	0.0	405.0
+1034.743		754	validation-stimulus	960.0	536.0	409.0	0.0
+1036.775		755	fixation-stimulus	960.0	536.0	0.0	0.0
+1037.731		756	validation-stimulus	960.0	536.0	-409.0	-405.0
+1038.675		757	validation-stimulus	960.0	536.0	-409.0	0.0
+1039.625		758	validation-stimulus	960.0	536.0	-409.0	405.0
+1040.61		759	validation-stimulus	960.0	536.0	0.0	0.0
+1041.585		760	validation-stimulus	960.0	536.0	409.0	-405.0
+1042.552		761	validation-stimulus	960.0	536.0	409.0	405.0
+1043.517		762	validation-stimulus	960.0	536.0	409.0	0.0
+1044.487		763	validation-stimulus	960.0	536.0	0.0	405.0
+1045.46		764	validation-stimulus	960.0	536.0	0.0	-405.0
+1047.513		765	fixation-stimulus	960.0	536.0	0.0	0.0
+1048.488		766	validation-stimulus	960.0	536.0	-409.0	-405.0
+1049.431		767	validation-stimulus	960.0	536.0	409.0	0.0
+1050.383		768	validation-stimulus	960.0	536.0	409.0	405.0
+1051.326		769	validation-stimulus	960.0	536.0	0.0	0.0
+1052.29		770	validation-stimulus	960.0	536.0	409.0	-405.0
+1053.245		771	validation-stimulus	960.0	536.0	-409.0	405.0
+1054.211		772	validation-stimulus	960.0	536.0	-409.0	0.0
+1055.162		773	validation-stimulus	960.0	536.0	0.0	405.0
+1056.137		774	validation-stimulus	960.0	536.0	0.0	-405.0
+1058.209		775	fixation-stimulus	960.0	536.0	0.0	0.0
+1059.186		776	validation-stimulus	960.0	536.0	409.0	405.0
+1060.148		777	validation-stimulus	960.0	536.0	0.0	0.0
+1061.122		778	validation-stimulus	960.0	536.0	0.0	405.0
+1062.097		779	validation-stimulus	960.0	536.0	-409.0	-405.0
+1063.068		780	validation-stimulus	960.0	536.0	409.0	-405.0
+1064.014		781	validation-stimulus	960.0	536.0	0.0	-405.0
+1064.988		782	validation-stimulus	960.0	536.0	-409.0	405.0
+1065.941		783	validation-stimulus	960.0	536.0	-409.0	0.0
+1066.888		784	validation-stimulus	960.0	536.0	409.0	0.0
+1068.953		785	fixation-stimulus	960.0	536.0	0.0	0.0
+1069.905		786	validation-stimulus	960.0	536.0	409.0	405.0
+1070.848		787	validation-stimulus	960.0	536.0	0.0	405.0
+1071.83		788	validation-stimulus	960.0	536.0	-409.0	-405.0
+1072.805		789	validation-stimulus	960.0	536.0	-409.0	0.0
+1073.754		790	validation-stimulus	960.0	536.0	409.0	-405.0
+1074.724		791	validation-stimulus	960.0	536.0	0.0	-405.0
+1075.692		792	validation-stimulus	960.0	536.0	0.0	0.0
+1076.637		793	validation-stimulus	960.0	536.0	409.0	0.0
+1077.601		794	validation-stimulus	960.0	536.0	-409.0	405.0
+1079.667		795	fixation-stimulus	960.0	536.0	0.0	0.0
+1080.64		796	validation-stimulus	960.0	536.0	-409.0	0.0
+1081.592		797	validation-stimulus	960.0	536.0	409.0	405.0
+1082.543		798	validation-stimulus	960.0	536.0	-409.0	405.0
+1083.511		799	validation-stimulus	960.0	536.0	409.0	0.0
+1084.46		800	validation-stimulus	960.0	536.0	0.0	0.0
+1085.41		801	validation-stimulus	960.0	536.0	-409.0	-405.0
+1086.378		802	validation-stimulus	960.0	536.0	409.0	-405.0
+1087.325		803	validation-stimulus	960.0	536.0	0.0	405.0
+1088.298		804	validation-stimulus	960.0	536.0	0.0	-405.0
+1088.336		805					
+1092.453	4.083	806					
